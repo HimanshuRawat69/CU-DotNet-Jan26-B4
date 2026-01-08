@@ -1,0 +1,44 @@
+# Generated binaries and build artifacts
+/bin
+/out
+/build
+/dist
+/target
+/release
+
+# Environment or OS specific files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+[Tt]humbs.db:[Dd]esktop.ini:[Rr]ecycle.bin
+*.swp
+*~
+.__*
+
+# Logs and temporary files
+logs
+*.log
+*.temp
+*.tmp
+
+# Dependency directories (often large and not needed in source control)
+/node_modules
+/vendor
+/venv
+
+# Configuration files
+.env
+.flaskenv
+config.local.json
+
+# IDE and Editor-specific files
+.idea/
+.vscode/
+*.iml
+*.iws
+.project
+.classpath
+
+# Compiled Python files (if applicable)
+__pycache__/
+*.pyc
