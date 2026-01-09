@@ -108,3 +108,4 @@ class Program
         Console.WriteLine("Net Salary: " + net);
     }
 }
+
