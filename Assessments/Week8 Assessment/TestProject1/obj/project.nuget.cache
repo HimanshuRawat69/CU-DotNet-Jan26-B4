@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UBOfyGR/K6M=",
+  "dgSpecHash": "b6TA3LH6e7Q=",
   "success": true,
-  "projectFilePath": "C:\\Users\\himan\\source\\repos\\Assessment\\TestProject1\\TestProject1.csproj",
+  "projectFilePath": "C:\\Capgemini dotnet\\CU-DotNet-Jan26-B4\\Assessments\\Week8 Assessment\\TestProject1\\TestProject1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\himan\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\himan\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",

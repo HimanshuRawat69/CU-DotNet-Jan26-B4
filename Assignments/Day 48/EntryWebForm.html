@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body style = "background-color: Gray">
+    <h1>Passport Application Form</h1>
+    <hr />
+    <form>
+        <table  >
+            <h2>Applicant Details</h2>
+            <tr>
+                <td>
+                    <label >Enter Your First Name* </label>
+                </td>
+                <td>
+				    <input type="text" name= "firstname" placeholder="as per Adhaar id" id="firstname" required >
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <label >Enter Your Last Name </label>
+                </td>
+                <td>
+				    <input type="text" name= "lastname" placeholder="optional" id="lastname" >
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <label>Enter Your Father's Full Name* </label>
+                </td>
+                <td>
+				    <input type="text" name= "fname" placeholder="as per Adhaar Id" id="fname" required >
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <label >Enter Your Mother's Full Name*</label>
+                </td>
+                <td>
+				    <input type="text" name= "mname" placeholder="as per Adhaar Id" id="mname" >
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <label>Select Gender*</label>
+                </td>
+                <td>
+                    <input type = "radio" name = "gender" id = "male" value = "M" required/>
+                    <label for = "male">Male</label>
+                    <input type = "radio" name = "gender" id = "female" value = "F" required />
+                    <label for = "female">Female</label>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <label>Enter Your DOB*</label>
+                </td>
+                <td>
+                    <input type = "date" name = "dob" id ="dob" required/>
+                </td>
+            </tr>
+                <tr>
+                <td><label>Select City</label></td>
+                <td>
+                    <select id = "city" name = "city" required>
+                        <option selected>Please select </option>
+                        <option value = "1">Delhi</option>
+                        <option value = "2">Mumbai</option>
+                        <option value = "3">Kolkata</option>
+                        <option value = "4">Chennai</option>
+                        <option value = "5">Chandiagrh</option>
+                    </select>
+				</select>
+                </td>
+            </tr>
+            <tr>
+                <td>Email *</td>
+                <td><input type="email" name="email" required></td>
+            </tr>
+            <tr>
+                <td>Mobile Number *</td>
+                <td><input type="number" name="mobile" pattern="[0-9]{10}" required></td>
+            </tr>
+
+            <tr>
+                <td>Address *</td>
+                <td><input type="text" name= "address" id="address" ></td>
+            </tr>
+            <tr>
+                <td>State *</td>
+                <td><input type="text" name="state" required></td>
+            </tr>
+            <tr>
+                <td>PAN(if available)</td>
+                <td><input type="text" name="pan" pattern="[A-Z]{5}[0-9]{4}[A-Z]{1}" placeholder="Example: ABCDE1234F"></td>
+            </tr>
+            <tr>
+                <td>Pincode *</td>
+                <td><input type="number" name="pincode" required></td>
+            </tr>
+
+            <tr>
+                <td>Upload Photo *</td>
+                <td><input type="file" name="photo" required></td>
+            </tr>
+            <tr>
+                <td colspan="2" >
+                    <input type="submit" value="Submit">
+                    <input type="reset" value="Reset">
+                </td>
+            </tr>
+        </table>
+    </form>
+</body>
+</html>
