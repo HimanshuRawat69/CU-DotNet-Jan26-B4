@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Form Example</title>
+
+<script>
+function showData(){
+
+    var name = document.getElementById("name").value;
+    var age = document.getElementById("age").value;
+    var city = document.getElementById("city").value;
+
+    // concatenated string
+    var result = "Name: " + name + 
+                 " | Age: " + age + 
+                 " | City: " + city;
+
+    document.getElementById("output").innerHTML = result;
+
+    return false; // prevents page refresh
+}
+</script>
+
+</head>
+
+<body>
+
+<h2>User Form</h2>
+
+<form onsubmit="return showData()">
+
+Name:
+<input type="text" id="name"><br><br>
+
+Age:
+<input type="number" id="age"><br><br>
+
+City:
+<input type="text" id="city"><br><br>
+
+<input type="submit" value="Submit">
+
+</form>
+
+<h3 id="output"></h3>
+
+</body>
+</html>

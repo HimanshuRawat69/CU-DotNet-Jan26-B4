@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+    <h2>ClearDept Loan Calculator</h2>
+    <form onsubmit="calculateEMI(); return false;">
+    <label for loanAmount>Loan amount</label>
+    <input type="text" id="amount" placeholder="Enter loan amount" ><br><br>
+
+    <label for interestRate>InterestRate</label>
+    <input type="text" id="rate" placeholder="Enter interest rate"><br><br>
+    <label for tenure>Month</label>
+    <input type="text" id="months" placeholder="Enter tenure in month"><br><br>
+    <input type="submit" value="Calculate EMI"><br><br>
+</form>
+    <table border="1">
+    <thead>
+        <tr>
+            <th>SNO</th>
+            <th>Loan Left</th>
+            <th>EMI</th>
+            <th>Principal</th>
+            <th>Interest</th>
+            <th>Remaining Balance</th>
+        </tr>
+    </thead>
+    <tbody id="scheduleBody">
+        </tbody>
+</table>
+<script>
+    function  calculateEMI(){
+          var amount=parseFloat(document.getElementById('amount').value);
+         var rate=parseFloat(document.getElementById('rate').value);
+         var months=parseInt(document.getElementById('months').value);
+              var scheduleBody=document.getElementById('scheduleBody');
+                scheduleBody.innerHTML="";
+                var monthlyRate=rate/(12*100);
+                var emi=amount*monthlyRate/(1-Math.pow(1+monthlyRate,-months));
+                var balance=amount;
+                for(var i=1;i<=months;i++){
+                    var interest=balance*monthlyRate;
+                    var principal=emi-interest;
+                    var remaining = balance - principal;
+                   var row=`<tr>
+                   <td>${i}</td>
+                   <td>${balance.toFixed(2)}</td>
+                   <td>${emi.toFixed(2)}</td>
+                    <td>${principal.toFixed(2)}</td>
+                    <td>${interest.toFixed(2)}</td>
+                    <td>${remaining.toFixed(2)}</td>
+                     </tr>`;
+                    scheduleBody.innerHTML+=row;
+                    balance = remaining;
+
+                }
+            }
+                    
+    
+</script>
+
+</body>
+</html>
