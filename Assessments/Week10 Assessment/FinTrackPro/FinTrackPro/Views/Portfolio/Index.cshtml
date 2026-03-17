@@ -1,0 +1,63 @@
+﻿@model IEnumerable<FinTrackPro.Models.Asset>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Stock List</h1>
+
+@{
+    ViewData["Title"] = "Portfolio";
+    double total = (double)ViewData["Total"];
+}
+
+<h1>Portfolio</h1>
+@if (TempData["Message"] != null)
+{
+    <div class="alert aleat-success">@TempData["Message"]</div>
+}
+<p><b>Total Portfolio Value:</b> @total</p>
+<p><b>Total + 500:</b> @(total + 500)</p>
+
+@if (TempData["Message"] != null)
+{
+    <p style="color:green">@TempData["Message"]</p>
+}
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Price)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Price)
+            </td>
+            <td>
+                <a href="/Asset/Info/@item.Id">Details</a> |
+                @Html.ActionLink("Delete", "Delete", new { id = item.Id })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

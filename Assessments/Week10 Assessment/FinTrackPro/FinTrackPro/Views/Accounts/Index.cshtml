@@ -1,0 +1,85 @@
+﻿@model IEnumerable<FinTrackPro.Models.Account>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Accounts</h1>
+@if (TempData["Success"] != null)
+{
+    <div class="toast-container position-fixed bottom-0 end-0 p-3">
+        <div class="toast show bg-success text-white">
+            <div class="toast-header">
+                <strong class="me-auto">Success</strong>
+                <button type="button" class="btn-close" data-bs-dismiss="toast"></button>
+            </div>
+            <div class="toast-body">
+                @TempData["Success"]
+            </div>
+        </div>
+    </div>
+}
+
+<p>
+    <a asp-action="Create">Create New Account</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.AccountName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Balance)
+            </th>
+            <th>Transactions</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.AccountName</td>
+                <td>@item.Balance</td>
+
+                <td>
+                    <details>
+                        <summary>View Transactions</summary>
+                    @if (item.Transactions != null && item.Transactions.Count > 0)
+                    {
+                        <ul>
+                            @foreach (var t in item.Transactions)
+                            {
+                                <li>
+                                    @t.Description - @t.Amount (@t.Category)
+                                </li>
+                            }
+                        </ul>
+                    }
+                    else
+                    {
+                        <span>No Transactions</span>
+                    }
+                        <br />
+
+                        <a asp-action="CreateTransaction"
+                           asp-route-accountId="@item.Id"
+                           class="btn btn-sm btn-success">
+                            Add Transaction
+                        </a>
+
+                    </details>
+                </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

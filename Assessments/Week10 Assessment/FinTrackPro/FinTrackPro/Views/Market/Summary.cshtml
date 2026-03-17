@@ -1,0 +1,30 @@
+﻿
+@{
+    ViewData["Title"] = "Summary";
+}
+
+<h1>Market Summary</h1>
+
+@if(ViewBag.MarketStatus == "Open")
+{
+    <div class=" = alert alert-success">Market Status: @ViewBag.MarketStatus</div>
+}
+else
+{
+    <div class=" = alert alert-danger">Market Status: @ViewBag.MarketStatus</div>
+}
+
+
+<div class=" card" style="width: 18rem;">
+    <div class=" card-body">
+        <h3 class="card-title ">Top Gainer</h3>
+        <p class=" card-text">
+            <b>Stock: </b>@ViewData["TopGainer"]
+        </p>
+        <p class=" card-text">
+            <b>Volume: </b>@ViewData["Volume"]
+        </p>
+
+    </div>
+
+</div>
