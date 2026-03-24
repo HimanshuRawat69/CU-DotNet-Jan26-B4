@@ -1,0 +1,56 @@
+﻿@model List<QuickLoan.Models.Loan>
+
+<div class="container mt-4">
+
+    <div class="d-flex justify-content-between align-items-center mb-3">
+        <h2 class="fw-bold">Loan List</h2>
+        <a asp-action="Add" class="btn btn-success">+ Add Loan</a>
+    </div>
+
+    <div class="card shadow-sm">
+        <div class="card-body p-0">
+
+            <table class="table table-hover table-striped mb-0">
+                <thead class="table-dark text-center">
+                    <tr>
+                        <th>ID</th>
+                        <th>Borrower</th>
+                        <th>Lender</th>
+                        <th>Amount</th>
+                        <th>Status</th>
+                        <th>Action</th>
+                    </tr>
+                </thead>
+
+                <tbody class="text-center align-middle">
+                    @foreach (var loan in Model)
+                    {
+                        <tr>
+                            <td>@loan.Id</td>
+                            <td>@loan.BorrowerName</td>
+                            <td>@loan.LenderName</td>
+                            <td class="fw-semibold text-primary">₹@loan.Amount</td>
+                            <td>
+                                @if (loan.IsSettled)
+                                {
+                                    <span class="badge bg-success">Settled</span>
+                                }
+                                else
+                                {
+                                    <span class="badge bg-warning text-dark">Pending</span>
+                                }
+                            </td>
+                            <td>
+                                <a asp-action="Edit" asp-route-id="@loan.Id" class="btn btn-sm btn-outline-primary me-1">Edit</a>
+                                <a asp-action="Delete" asp-route-id="@loan.Id" class="btn btn-sm btn-outline-danger">Delete</a>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+
+            </table>
+
+        </div>
+    </div>
+
+</div>

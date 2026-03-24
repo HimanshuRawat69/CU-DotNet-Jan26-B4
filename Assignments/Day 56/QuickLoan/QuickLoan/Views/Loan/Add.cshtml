@@ -1,0 +1,31 @@
+﻿@model QuickLoan.Models.Loan
+
+<h2>Add Loan</h2>
+
+<form asp-action="Add">
+
+    <div>
+        <label asp-for="BorrowerName"></label>
+        <input asp-for="BorrowerName" class="form-control" />
+        <span asp-validation-for="BorrowerName"></span>
+    </div>
+
+    <div>
+        <label asp-for="LenderName"></label>
+        <input asp-for="LenderName" class="form-control" />
+    </div>
+
+    <div>
+        <label asp-for="Amount"></label>
+        <input asp-for="Amount" class="form-control" />
+        <span asp-validation-for="Amount"></span>
+    </div>
+
+    <div>
+        <label asp-for="IsSettled"></label>
+        <input asp-for="IsSettled" type="checkbox" />
+    </div>
+
+    <button type="submit" class="btn btn-success">Save</button>
+
+</form>

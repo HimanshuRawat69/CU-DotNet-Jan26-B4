@@ -1,0 +1,50 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+<div class="container mt-5">
+
+    <h2 class="text-center mb-4">Our Services</h2>
+
+    <div class="row justify-content-center">
+
+        <div class="col-md-4">
+            <div class="card shadow">
+                <div class="card-body text-center">
+
+                    <h5 class="card-title">Consulting</h5>
+                    <p class="card-text">
+                        Professional business and IT consulting services.
+                    </p>
+
+                    <a asp-controller="Service" asp-action="Consulting" class="btn btn-primary">
+                        Learn More
+                    </a>
+
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-4">
+            <div class="card shadow">
+                <div class="card-body text-center">
+
+                    <h5 class="card-title">Training</h5>
+                    <p class="card-text">
+                        Technical and professional training programs.
+                    </p>
+
+                    <a asp-controller="Service" asp-action="Training" class="btn btn-primary">
+                        Learn More
+                    </a>
+
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+</div>
+

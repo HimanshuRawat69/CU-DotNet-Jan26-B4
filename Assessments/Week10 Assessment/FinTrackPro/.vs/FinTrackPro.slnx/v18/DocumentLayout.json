@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\himan\\OneDrive\\Documents\\FinTrackPro\\",
+  "WorkspaceRootPath": "C:\\Capgemini dotnet\\CU-DotNet-Jan26-B4\\Assessments\\Week10 Assessment\\FinTrackPro\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{891DE176-AE78-4A7A-F322-8E22C4ADDE7D}|FinTrackPro\\FinTrackPro.csproj|c:\\users\\himan\\onedrive\\documents\\fintrackpro\\fintrackpro\\views\\accounts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{891DE176-AE78-4A7A-F322-8E22C4ADDE7D}|FinTrackPro\\FinTrackPro.csproj|c:\\capgemini dotnet\\cu-dotnet-jan26-b4\\assessments\\week10 assessment\\fintrackpro\\fintrackpro\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{891DE176-AE78-4A7A-F322-8E22C4ADDE7D}|FinTrackPro\\FinTrackPro.csproj|solutionrelative:fintrackpro\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{891DE176-AE78-4A7A-F322-8E22C4ADDE7D}|FinTrackPro\\FinTrackPro.csproj|c:\\capgemini dotnet\\cu-dotnet-jan26-b4\\assessments\\week10 assessment\\fintrackpro\\fintrackpro\\views\\accounts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{891DE176-AE78-4A7A-F322-8E22C4ADDE7D}|FinTrackPro\\FinTrackPro.csproj|solutionrelative:fintrackpro\\views\\accounts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\himan\\OneDrive\\Documents\\FinTrackPro\\FinTrackPro\\Migrations\\20260317061143_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FinTrackPro\\Migrations\\20260317061143_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{891DE176-AE78-4A7A-F322-8E22C4ADDE7D}|FinTrackPro\\FinTrackPro.csproj|c:\\users\\himan\\onedrive\\documents\\fintrackpro\\fintrackpro\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{891DE176-AE78-4A7A-F322-8E22C4ADDE7D}|FinTrackPro\\FinTrackPro.csproj|solutionrelative:fintrackpro\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{891DE176-AE78-4A7A-F322-8E22C4ADDE7D}|FinTrackPro\\FinTrackPro.csproj|c:\\capgemini dotnet\\cu-dotnet-jan26-b4\\assessments\\week10 assessment\\fintrackpro\\fintrackpro\\migrations\\20260317061143_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{891DE176-AE78-4A7A-F322-8E22C4ADDE7D}|FinTrackPro\\FinTrackPro.csproj|solutionrelative:fintrackpro\\migrations\\20260317061143_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,11 +38,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\himan\\OneDrive\\Documents\\FinTrackPro\\FinTrackPro\\Views\\Accounts\\Create.cshtml",
+              "DocumentMoniker": "C:\\Capgemini dotnet\\CU-DotNet-Jan26-B4\\Assessments\\Week10 Assessment\\FinTrackPro\\FinTrackPro\\Views\\Accounts\\Create.cshtml",
               "RelativeDocumentMoniker": "FinTrackPro\\Views\\Accounts\\Create.cshtml",
-              "ToolTip": "C:\\Users\\himan\\OneDrive\\Documents\\FinTrackPro\\FinTrackPro\\Views\\Accounts\\Create.cshtml",
+              "ToolTip": "C:\\Capgemini dotnet\\CU-DotNet-Jan26-B4\\Assessments\\Week10 Assessment\\FinTrackPro\\FinTrackPro\\Views\\Accounts\\Create.cshtml",
               "RelativeToolTip": "FinTrackPro\\Views\\Accounts\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -51,26 +51,25 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "20260317061143_init.cs",
-              "DocumentMoniker": "C:\\Users\\himan\\OneDrive\\Documents\\FinTrackPro\\FinTrackPro\\Migrations\\20260317061143_init.cs",
+              "DocumentMoniker": "C:\\Capgemini dotnet\\CU-DotNet-Jan26-B4\\Assessments\\Week10 Assessment\\FinTrackPro\\FinTrackPro\\Migrations\\20260317061143_init.cs",
               "RelativeDocumentMoniker": "FinTrackPro\\Migrations\\20260317061143_init.cs",
-              "ToolTip": "C:\\Users\\himan\\OneDrive\\Documents\\FinTrackPro\\FinTrackPro\\Migrations\\20260317061143_init.cs",
+              "ToolTip": "C:\\Capgemini dotnet\\CU-DotNet-Jan26-B4\\Assessments\\Week10 Assessment\\FinTrackPro\\FinTrackPro\\Migrations\\20260317061143_init.cs",
               "RelativeToolTip": "FinTrackPro\\Migrations\\20260317061143_init.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAAAABEAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-17T06:11:43.423Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-17T06:11:43.423Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Account.cs",
-              "DocumentMoniker": "C:\\Users\\himan\\OneDrive\\Documents\\FinTrackPro\\FinTrackPro\\Models\\Account.cs",
+              "DocumentMoniker": "C:\\Capgemini dotnet\\CU-DotNet-Jan26-B4\\Assessments\\Week10 Assessment\\FinTrackPro\\FinTrackPro\\Models\\Account.cs",
               "RelativeDocumentMoniker": "FinTrackPro\\Models\\Account.cs",
-              "ToolTip": "C:\\Users\\himan\\OneDrive\\Documents\\FinTrackPro\\FinTrackPro\\Models\\Account.cs",
+              "ToolTip": "C:\\Capgemini dotnet\\CU-DotNet-Jan26-B4\\Assessments\\Week10 Assessment\\FinTrackPro\\FinTrackPro\\Models\\Account.cs",
               "RelativeToolTip": "FinTrackPro\\Models\\Account.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-17T06:09:37.695Z",
               "EditorCaption": ""

@@ -1,0 +1,71 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome My Company Portal</h1>
+    <p>Learn more About <a href="https://en.wikipedia.org/wiki/Google">Google</a>.</p>
+</div>
+
+
+
+<div class="card container mt-5 d-flex justify-content-center" style="width: 18rem;">
+    <img src="https://st2.depositphotos.com/4829791/12462/i/950/depositphotos_124624166-stock-photo-google-headquarters-sign.jpg" class="card-img-top" alt="...">
+    <div class="card-body">
+        <h5 class="card-title">Google</h5>
+        <p class="card-text">Google is a multinational technology company that provides internet services such as search engines, online advertising, and cloud computing. It was founded in 1998 by Larry Page and Sergey Brin and is now one of the largest and most influential companies in the world.</p>
+        <a href="https://localhost:7133/Home/About" class="btn btn-primary">More Details</a>
+    </div>
+</div>
+<br /> <br />
+
+<div class="row">
+    <div class="col-sm-6">
+        <div class="card">
+            <div class="card-body">
+                <h5 class="card-title">Explore</h5>
+                <p class="card-text">Look At Our New Tools</p>
+                <a href="https://localhost:7133/Products/Tools" class="btn btn-primary">Explore</a>
+            </div>
+        </div>
+    </div>
+    <div class="col-sm-6">
+        <div class="card" >
+            <div class="card-body">
+                <h5 class="card-title">Traning</h5>
+                <p class="card-text">Explore our Traning System</p>
+                <a href="https://localhost:7133/Service/Training" class="btn btn-primary">Explore</a>
+            </div>
+        </div>
+    </div>
+</div>
+<br />
+<button type="button" class="btn btn-primary" id="liveToastBtn">Show Notification</button>
+
+<div class="position-fixed bottom-0 end-0 p-3" style="z-index: 11">
+    <div id="liveToast" class="toast" role="alert" aria-live="assertive" aria-atomic="true">
+        <div class="toast-header">
+            <img src="/img/Google-AI-Image-Generator.jpg" width="20px" height="20px" class="rounded me-2" alt="...">
+            <strong class="me-auto">Google AI</strong>
+            <small>11 mins ago</small>
+            <button type="button" class="btn-close" data-bs-dismiss="toast" aria-label="Close"></button>
+        </div>
+        <div class="toast-body">
+            Hello, There! We are here to Help.
+        </div>
+    </div>
+</div>
+
+<script>
+    var toastTrigger = document.getElementById('liveToastBtn')
+    var toastLiveExample = document.getElementById('liveToast')
+    if (toastTrigger) {
+      toastTrigger.addEventListener('click', function () {
+        var toast = new bootstrap.Toast(toastLiveExample)
+
+        toast.show()
+      })
+    }
+</script>
+<br />
+<br />
