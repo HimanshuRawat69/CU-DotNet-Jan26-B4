@@ -1,0 +1,87 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" version="29.6.6">
+  <diagram name="Auth Architecture" id="0">
+    <mxGraphModel dx="168477" dy="108172" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3o-ZxgoOIovUzrj00LoR-2" edge="1" parent="1" source="browser" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="http1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="browser" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" value="Browser / Client" vertex="1">
+          <mxGeometry height="60" width="140" x="40" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="3o-ZxgoOIovUzrj00LoR-3" edge="1" parent="1" source="http1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="mvc">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="http1" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" value="HTTP Client" vertex="1">
+          <mxGeometry height="60" width="120" x="220" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="3o-ZxgoOIovUzrj00LoR-4" edge="1" parent="1" source="mvc" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="gateway">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mvc" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" value="MVC (Login)" vertex="1">
+          <mxGeometry height="100" width="160" x="380" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="3o-ZxgoOIovUzrj00LoR-5" edge="1" parent="1" source="gateway" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="auth">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3o-ZxgoOIovUzrj00LoR-6" edge="1" parent="1" source="gateway" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="account">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3o-ZxgoOIovUzrj00LoR-8" edge="1" parent="1" source="gateway" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" target="loan">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gateway" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" value="API Gateway" vertex="1">
+          <mxGeometry height="60" width="160" x="580" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="3o-ZxgoOIovUzrj00LoR-22" edge="1" parent="1" source="auth" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="db">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="auth" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" value="Auth Service" vertex="1">
+          <mxGeometry height="80" width="180" x="870" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3o-ZxgoOIovUzrj00LoR-18" edge="1" parent="1" source="account" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="3o-ZxgoOIovUzrj00LoR-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="account" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" value="Account Service" vertex="1">
+          <mxGeometry height="80" width="180" x="870" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="3o-ZxgoOIovUzrj00LoR-20" edge="1" parent="1" source="loan" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="3o-ZxgoOIovUzrj00LoR-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="loan" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" value="Loan Service" vertex="1">
+          <mxGeometry height="80" width="180" x="870" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="db" parent="1" style="shape=cylinder;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" value="Database(AuthDB)" vertex="1">
+          <mxGeometry height="80" width="120" x="1230" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="e1" edge="1" parent="1" source="browser" target="http1" />
+        <mxCell id="e2" edge="1" parent="1" source="http1" target="mvc" />
+        <mxCell id="e3" edge="1" parent="1" source="mvc" target="gateway" />
+        <mxCell id="e4" edge="1" parent="1" source="gateway" target="auth" />
+        <mxCell id="e5" edge="1" parent="1" source="gateway" target="account" />
+        <mxCell id="e6" edge="1" parent="1" source="gateway" target="loan" />
+        <mxCell id="e7" edge="1" parent="1" source="account" target="db" />
+        <mxCell id="e8" edge="1" parent="1" source="loan" target="db" />
+        <mxCell id="3o-ZxgoOIovUzrj00LoR-19" edge="1" parent="1" source="3o-ZxgoOIovUzrj00LoR-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="3o-ZxgoOIovUzrj00LoR-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3o-ZxgoOIovUzrj00LoR-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" value="Transaction Service" vertex="1">
+          <mxGeometry height="80" width="180" x="870" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="3o-ZxgoOIovUzrj00LoR-7" edge="1" parent="1" source="gateway" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.008;entryY=0.628;entryDx=0;entryDy=0;entryPerimeter=0;" target="3o-ZxgoOIovUzrj00LoR-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3o-ZxgoOIovUzrj00LoR-14" parent="1" style="shape=cylinder;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" value="Database(AccDB)" vertex="1">
+          <mxGeometry height="80" width="120" x="1230" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="3o-ZxgoOIovUzrj00LoR-15" parent="1" style="shape=cylinder;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" value="Database(TransDB)" vertex="1">
+          <mxGeometry height="80" width="120" x="1230" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="3o-ZxgoOIovUzrj00LoR-16" parent="1" style="shape=cylinder;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" value="Database(LoanDB)" vertex="1">
+          <mxGeometry height="80" width="120" x="1230" y="370" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

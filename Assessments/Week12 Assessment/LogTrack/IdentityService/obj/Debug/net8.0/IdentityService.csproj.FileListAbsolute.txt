@@ -1,0 +1,88 @@
+C:\Users\ravis\source\repos\LogTrack\IdentityService\obj\Debug\net8.0\IdentityService.csproj.AssemblyReference.cache
+C:\Users\ravis\source\repos\LogTrack\IdentityService\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\ravis\source\repos\LogTrack\IdentityService\obj\Debug\net8.0\IdentityService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ravis\source\repos\LogTrack\IdentityService\obj\Debug\net8.0\IdentityService.AssemblyInfoInputs.cache
+C:\Users\ravis\source\repos\LogTrack\IdentityService\obj\Debug\net8.0\IdentityService.AssemblyInfo.cs
+C:\Users\ravis\source\repos\LogTrack\IdentityService\obj\Debug\net8.0\IdentityService.csproj.CoreCompileInputs.cache
+C:\Users\ravis\source\repos\LogTrack\IdentityService\obj\Debug\net8.0\IdentityService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ravis\source\repos\LogTrack\IdentityService\obj\Debug\net8.0\IdentityService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ravis\source\repos\LogTrack\IdentityService\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ravis\source\repos\LogTrack\IdentityService\bin\Debug\net8.0\appsettings.json
+C:\Users\ravis\source\repos\LogTrack\IdentityService\bin\Debug\net8.0\IdentityService.staticwebassets.endpoints.json
+C:\Users\ravis\source\repos\LogTrack\IdentityService\bin\Debug\net8.0\IdentityService.exe
+C:\Users\ravis\source\repos\LogTrack\IdentityService\bin\Debug\net8.0\IdentityService.deps.json
+C:\Users\ravis\source\repos\LogTrack\IdentityService\bin\Debug\net8.0\IdentityService.runtimeconfig.json
+C:\Users\ravis\source\repos\LogTrack\IdentityService\bin\Debug\net8.0\IdentityService.dll
+C:\Users\ravis\source\repos\LogTrack\IdentityService\bin\Debug\net8.0\IdentityService.pdb
+C:\Users\ravis\source\repos\LogTrack\IdentityService\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\ravis\source\repos\LogTrack\IdentityService\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ravis\source\repos\LogTrack\IdentityService\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ravis\source\repos\LogTrack\IdentityService\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ravis\source\repos\LogTrack\IdentityService\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ravis\source\repos\LogTrack\IdentityService\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ravis\source\repos\LogTrack\IdentityService\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ravis\source\repos\LogTrack\IdentityService\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\ravis\source\repos\LogTrack\IdentityService\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ravis\source\repos\LogTrack\IdentityService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ravis\source\repos\LogTrack\IdentityService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ravis\source\repos\LogTrack\IdentityService\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ravis\source\repos\LogTrack\IdentityService\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\ravis\source\repos\LogTrack\IdentityService\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\ravis\source\repos\LogTrack\IdentityService\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\ravis\source\repos\LogTrack\IdentityService\obj\Debug\net8.0\scopedcss\bundle\IdentityService.styles.css
+C:\Users\ravis\source\repos\LogTrack\IdentityService\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ravis\source\repos\LogTrack\IdentityService\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\ravis\source\repos\LogTrack\IdentityService\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ravis\source\repos\LogTrack\IdentityService\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\ravis\source\repos\LogTrack\IdentityService\obj\Debug\net8.0\swae.build.ex.cache
+C:\Users\ravis\source\repos\LogTrack\IdentityService\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\ravis\source\repos\LogTrack\IdentityService\obj\Debug\net8.0\Identity.B9CE61DD.Up2Date
+C:\Users\ravis\source\repos\LogTrack\IdentityService\obj\Debug\net8.0\IdentityService.dll
+C:\Users\ravis\source\repos\LogTrack\IdentityService\obj\Debug\net8.0\refint\IdentityService.dll
+C:\Users\ravis\source\repos\LogTrack\IdentityService\obj\Debug\net8.0\IdentityService.pdb
+C:\Users\ravis\source\repos\LogTrack\IdentityService\obj\Debug\net8.0\IdentityService.genruntimeconfig.cache
+C:\Users\ravis\source\repos\LogTrack\IdentityService\obj\Debug\net8.0\ref\IdentityService.dll
+C:\Users\himan\Downloads\Week12 Ass\LogTrack\IdentityService\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\himan\Downloads\Week12 Ass\LogTrack\IdentityService\bin\Debug\net8.0\appsettings.json
+C:\Users\himan\Downloads\Week12 Ass\LogTrack\IdentityService\bin\Debug\net8.0\IdentityService.staticwebassets.endpoints.json
+C:\Users\himan\Downloads\Week12 Ass\LogTrack\IdentityService\bin\Debug\net8.0\IdentityService.exe
+C:\Users\himan\Downloads\Week12 Ass\LogTrack\IdentityService\bin\Debug\net8.0\IdentityService.deps.json
+C:\Users\himan\Downloads\Week12 Ass\LogTrack\IdentityService\bin\Debug\net8.0\IdentityService.runtimeconfig.json
+C:\Users\himan\Downloads\Week12 Ass\LogTrack\IdentityService\bin\Debug\net8.0\IdentityService.dll
+C:\Users\himan\Downloads\Week12 Ass\LogTrack\IdentityService\bin\Debug\net8.0\IdentityService.pdb
+C:\Users\himan\Downloads\Week12 Ass\LogTrack\IdentityService\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\himan\Downloads\Week12 Ass\LogTrack\IdentityService\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\himan\Downloads\Week12 Ass\LogTrack\IdentityService\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\himan\Downloads\Week12 Ass\LogTrack\IdentityService\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\himan\Downloads\Week12 Ass\LogTrack\IdentityService\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\himan\Downloads\Week12 Ass\LogTrack\IdentityService\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\himan\Downloads\Week12 Ass\LogTrack\IdentityService\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\himan\Downloads\Week12 Ass\LogTrack\IdentityService\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\himan\Downloads\Week12 Ass\LogTrack\IdentityService\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\himan\Downloads\Week12 Ass\LogTrack\IdentityService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\himan\Downloads\Week12 Ass\LogTrack\IdentityService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\himan\Downloads\Week12 Ass\LogTrack\IdentityService\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\himan\Downloads\Week12 Ass\LogTrack\IdentityService\obj\Debug\net8.0\IdentityService.csproj.AssemblyReference.cache
+C:\Users\himan\Downloads\Week12 Ass\LogTrack\IdentityService\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\himan\Downloads\Week12 Ass\LogTrack\IdentityService\obj\Debug\net8.0\IdentityService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\himan\Downloads\Week12 Ass\LogTrack\IdentityService\obj\Debug\net8.0\IdentityService.AssemblyInfoInputs.cache
+C:\Users\himan\Downloads\Week12 Ass\LogTrack\IdentityService\obj\Debug\net8.0\IdentityService.AssemblyInfo.cs
+C:\Users\himan\Downloads\Week12 Ass\LogTrack\IdentityService\obj\Debug\net8.0\IdentityService.csproj.CoreCompileInputs.cache
+C:\Users\himan\Downloads\Week12 Ass\LogTrack\IdentityService\obj\Debug\net8.0\IdentityService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\himan\Downloads\Week12 Ass\LogTrack\IdentityService\obj\Debug\net8.0\IdentityService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\himan\Downloads\Week12 Ass\LogTrack\IdentityService\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\himan\Downloads\Week12 Ass\LogTrack\IdentityService\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\himan\Downloads\Week12 Ass\LogTrack\IdentityService\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\himan\Downloads\Week12 Ass\LogTrack\IdentityService\obj\Debug\net8.0\scopedcss\bundle\IdentityService.styles.css
+C:\Users\himan\Downloads\Week12 Ass\LogTrack\IdentityService\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\himan\Downloads\Week12 Ass\LogTrack\IdentityService\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\himan\Downloads\Week12 Ass\LogTrack\IdentityService\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\himan\Downloads\Week12 Ass\LogTrack\IdentityService\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\himan\Downloads\Week12 Ass\LogTrack\IdentityService\obj\Debug\net8.0\swae.build.ex.cache
+C:\Users\himan\Downloads\Week12 Ass\LogTrack\IdentityService\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\himan\Downloads\Week12 Ass\LogTrack\IdentityService\obj\Debug\net8.0\Identity.B9CE61DD.Up2Date
+C:\Users\himan\Downloads\Week12 Ass\LogTrack\IdentityService\obj\Debug\net8.0\IdentityService.dll
+C:\Users\himan\Downloads\Week12 Ass\LogTrack\IdentityService\obj\Debug\net8.0\refint\IdentityService.dll
+C:\Users\himan\Downloads\Week12 Ass\LogTrack\IdentityService\obj\Debug\net8.0\IdentityService.pdb
+C:\Users\himan\Downloads\Week12 Ass\LogTrack\IdentityService\obj\Debug\net8.0\IdentityService.genruntimeconfig.cache
+C:\Users\himan\Downloads\Week12 Ass\LogTrack\IdentityService\obj\Debug\net8.0\ref\IdentityService.dll

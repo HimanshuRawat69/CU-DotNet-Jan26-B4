@@ -1,0 +1,88 @@
+C:\Users\ravis\source\repos\LogTrack\TrackingService\obj\Debug\net8.0\TrackingService.csproj.AssemblyReference.cache
+C:\Users\ravis\source\repos\LogTrack\TrackingService\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\ravis\source\repos\LogTrack\TrackingService\obj\Debug\net8.0\TrackingService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ravis\source\repos\LogTrack\TrackingService\obj\Debug\net8.0\TrackingService.AssemblyInfoInputs.cache
+C:\Users\ravis\source\repos\LogTrack\TrackingService\obj\Debug\net8.0\TrackingService.AssemblyInfo.cs
+C:\Users\ravis\source\repos\LogTrack\TrackingService\obj\Debug\net8.0\TrackingService.csproj.CoreCompileInputs.cache
+C:\Users\ravis\source\repos\LogTrack\TrackingService\obj\Debug\net8.0\TrackingService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ravis\source\repos\LogTrack\TrackingService\obj\Debug\net8.0\TrackingService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ravis\source\repos\LogTrack\TrackingService\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ravis\source\repos\LogTrack\TrackingService\bin\Debug\net8.0\appsettings.json
+C:\Users\ravis\source\repos\LogTrack\TrackingService\bin\Debug\net8.0\TrackingService.staticwebassets.endpoints.json
+C:\Users\ravis\source\repos\LogTrack\TrackingService\bin\Debug\net8.0\TrackingService.exe
+C:\Users\ravis\source\repos\LogTrack\TrackingService\bin\Debug\net8.0\TrackingService.deps.json
+C:\Users\ravis\source\repos\LogTrack\TrackingService\bin\Debug\net8.0\TrackingService.runtimeconfig.json
+C:\Users\ravis\source\repos\LogTrack\TrackingService\bin\Debug\net8.0\TrackingService.dll
+C:\Users\ravis\source\repos\LogTrack\TrackingService\bin\Debug\net8.0\TrackingService.pdb
+C:\Users\ravis\source\repos\LogTrack\TrackingService\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\ravis\source\repos\LogTrack\TrackingService\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ravis\source\repos\LogTrack\TrackingService\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ravis\source\repos\LogTrack\TrackingService\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ravis\source\repos\LogTrack\TrackingService\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ravis\source\repos\LogTrack\TrackingService\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ravis\source\repos\LogTrack\TrackingService\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ravis\source\repos\LogTrack\TrackingService\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\ravis\source\repos\LogTrack\TrackingService\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ravis\source\repos\LogTrack\TrackingService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ravis\source\repos\LogTrack\TrackingService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ravis\source\repos\LogTrack\TrackingService\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ravis\source\repos\LogTrack\TrackingService\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\ravis\source\repos\LogTrack\TrackingService\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\ravis\source\repos\LogTrack\TrackingService\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\ravis\source\repos\LogTrack\TrackingService\obj\Debug\net8.0\scopedcss\bundle\TrackingService.styles.css
+C:\Users\ravis\source\repos\LogTrack\TrackingService\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ravis\source\repos\LogTrack\TrackingService\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\ravis\source\repos\LogTrack\TrackingService\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ravis\source\repos\LogTrack\TrackingService\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\ravis\source\repos\LogTrack\TrackingService\obj\Debug\net8.0\swae.build.ex.cache
+C:\Users\ravis\source\repos\LogTrack\TrackingService\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\ravis\source\repos\LogTrack\TrackingService\obj\Debug\net8.0\Tracking.8E0A325D.Up2Date
+C:\Users\ravis\source\repos\LogTrack\TrackingService\obj\Debug\net8.0\TrackingService.dll
+C:\Users\ravis\source\repos\LogTrack\TrackingService\obj\Debug\net8.0\refint\TrackingService.dll
+C:\Users\ravis\source\repos\LogTrack\TrackingService\obj\Debug\net8.0\TrackingService.pdb
+C:\Users\ravis\source\repos\LogTrack\TrackingService\obj\Debug\net8.0\TrackingService.genruntimeconfig.cache
+C:\Users\ravis\source\repos\LogTrack\TrackingService\obj\Debug\net8.0\ref\TrackingService.dll
+C:\Users\himan\Downloads\Week12 Ass\LogTrack\TrackingService\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\himan\Downloads\Week12 Ass\LogTrack\TrackingService\bin\Debug\net8.0\appsettings.json
+C:\Users\himan\Downloads\Week12 Ass\LogTrack\TrackingService\bin\Debug\net8.0\TrackingService.staticwebassets.endpoints.json
+C:\Users\himan\Downloads\Week12 Ass\LogTrack\TrackingService\bin\Debug\net8.0\TrackingService.exe
+C:\Users\himan\Downloads\Week12 Ass\LogTrack\TrackingService\bin\Debug\net8.0\TrackingService.deps.json
+C:\Users\himan\Downloads\Week12 Ass\LogTrack\TrackingService\bin\Debug\net8.0\TrackingService.runtimeconfig.json
+C:\Users\himan\Downloads\Week12 Ass\LogTrack\TrackingService\bin\Debug\net8.0\TrackingService.dll
+C:\Users\himan\Downloads\Week12 Ass\LogTrack\TrackingService\bin\Debug\net8.0\TrackingService.pdb
+C:\Users\himan\Downloads\Week12 Ass\LogTrack\TrackingService\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\himan\Downloads\Week12 Ass\LogTrack\TrackingService\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\himan\Downloads\Week12 Ass\LogTrack\TrackingService\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\himan\Downloads\Week12 Ass\LogTrack\TrackingService\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\himan\Downloads\Week12 Ass\LogTrack\TrackingService\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\himan\Downloads\Week12 Ass\LogTrack\TrackingService\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\himan\Downloads\Week12 Ass\LogTrack\TrackingService\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\himan\Downloads\Week12 Ass\LogTrack\TrackingService\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\himan\Downloads\Week12 Ass\LogTrack\TrackingService\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\himan\Downloads\Week12 Ass\LogTrack\TrackingService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\himan\Downloads\Week12 Ass\LogTrack\TrackingService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\himan\Downloads\Week12 Ass\LogTrack\TrackingService\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\himan\Downloads\Week12 Ass\LogTrack\TrackingService\obj\Debug\net8.0\TrackingService.csproj.AssemblyReference.cache
+C:\Users\himan\Downloads\Week12 Ass\LogTrack\TrackingService\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\himan\Downloads\Week12 Ass\LogTrack\TrackingService\obj\Debug\net8.0\TrackingService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\himan\Downloads\Week12 Ass\LogTrack\TrackingService\obj\Debug\net8.0\TrackingService.AssemblyInfoInputs.cache
+C:\Users\himan\Downloads\Week12 Ass\LogTrack\TrackingService\obj\Debug\net8.0\TrackingService.AssemblyInfo.cs
+C:\Users\himan\Downloads\Week12 Ass\LogTrack\TrackingService\obj\Debug\net8.0\TrackingService.csproj.CoreCompileInputs.cache
+C:\Users\himan\Downloads\Week12 Ass\LogTrack\TrackingService\obj\Debug\net8.0\TrackingService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\himan\Downloads\Week12 Ass\LogTrack\TrackingService\obj\Debug\net8.0\TrackingService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\himan\Downloads\Week12 Ass\LogTrack\TrackingService\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\himan\Downloads\Week12 Ass\LogTrack\TrackingService\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\himan\Downloads\Week12 Ass\LogTrack\TrackingService\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\himan\Downloads\Week12 Ass\LogTrack\TrackingService\obj\Debug\net8.0\scopedcss\bundle\TrackingService.styles.css
+C:\Users\himan\Downloads\Week12 Ass\LogTrack\TrackingService\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\himan\Downloads\Week12 Ass\LogTrack\TrackingService\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\himan\Downloads\Week12 Ass\LogTrack\TrackingService\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\himan\Downloads\Week12 Ass\LogTrack\TrackingService\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\himan\Downloads\Week12 Ass\LogTrack\TrackingService\obj\Debug\net8.0\swae.build.ex.cache
+C:\Users\himan\Downloads\Week12 Ass\LogTrack\TrackingService\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\himan\Downloads\Week12 Ass\LogTrack\TrackingService\obj\Debug\net8.0\Tracking.8E0A325D.Up2Date
+C:\Users\himan\Downloads\Week12 Ass\LogTrack\TrackingService\obj\Debug\net8.0\TrackingService.dll
+C:\Users\himan\Downloads\Week12 Ass\LogTrack\TrackingService\obj\Debug\net8.0\refint\TrackingService.dll
+C:\Users\himan\Downloads\Week12 Ass\LogTrack\TrackingService\obj\Debug\net8.0\TrackingService.pdb
+C:\Users\himan\Downloads\Week12 Ass\LogTrack\TrackingService\obj\Debug\net8.0\TrackingService.genruntimeconfig.cache
+C:\Users\himan\Downloads\Week12 Ass\LogTrack\TrackingService\obj\Debug\net8.0\ref\TrackingService.dll

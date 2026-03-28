@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "TrackingController",
+    "Method": "GetGps",
+    "RelativePath": "api/Tracking/gps",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
