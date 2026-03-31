@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="IdentityService/IdentityService.csproj" />
+  <Project Path="TrackingService/TrackingService.csproj" />
+</Solution>
