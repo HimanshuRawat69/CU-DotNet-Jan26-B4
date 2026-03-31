@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "SmartBank.TransactionService.Controllers.TransactionController",
+    "Method": "Create",
+    "RelativePath": "api/transaction",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "SmartBank.TransactionService.DTOs.TransactionDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

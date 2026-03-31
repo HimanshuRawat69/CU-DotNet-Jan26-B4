@@ -1,0 +1,66 @@
+﻿@model SmartBank.Web.Models.LoginViewModel
+@{
+    ViewData["Title"] = "Login";
+}
+
+<div class="d-flex justify-content-center align-items-center" style="min-height:60vh;">
+    <div class="card p-4 fade-in" style="max-width:420px; width:100%;">
+        <div class="text-center mb-3">
+            <i class="bi bi-bank2" style="font-size:2.5rem; color:var(--secondary-color)"></i>
+            <h2 class="mt-2">Sign in to SmartBank</h2>
+            <p class="text-muted">Welcome back! Please login to your account.</p>
+        </div>
+
+        @if (ViewBag.Success != null)
+        {
+            <div class="alert alert-success" role="alert">
+                <i class="bi bi-check-circle-fill"></i> @ViewBag.Success
+            </div>
+        }
+
+        @if (ViewBag.Error != null)
+        {
+            <div class="alert alert-danger" role="alert">
+                <i class="bi bi-exclamation-triangle-fill"></i> @ViewBag.Error
+            </div>
+        }
+
+        <form method="post" id="loginForm" novalidate>
+            <div class="mb-3">
+                <label asp-for="Email" class="form-label">Email Address</label>
+                <input asp-for="Email" class="form-control" type="email" placeholder="john@example.com" />
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="Password" class="form-label">Password</label>
+                <input asp-for="Password" class="form-control" type="password" placeholder="••••••••" />
+                <span asp-validation-for="Password" class="text-danger"></span>
+            </div>
+
+            <button type="submit" class="btn btn-primary w-100" id="loginBtn">
+                <i class="bi bi-box-arrow-in-right me-1"></i> Login
+            </button>
+        </form>
+
+        <div class="text-center mt-3">
+            Don't have an account? <a asp-controller="Auth" asp-action="Register">Create Account</a>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script>
+        (function(){
+            var form = document.getElementById('loginForm');
+            if (!form) return;
+            form.addEventListener('submit', function (e) {
+                var btn = document.getElementById('loginBtn');
+                if (btn) {
+                    btn.disabled = true;
+                    btn.innerHTML = '<span class="spinner-border spinner-border-sm me-2" role="status" aria-hidden="true"></span>Logging in...';
+                }
+            });
+        })();
+    </script>
+}

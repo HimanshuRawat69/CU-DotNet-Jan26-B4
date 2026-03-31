@@ -1,6 +1,0 @@
-<Solution>
-  <Folder Name="/Services/">
-    <Project Path="AuthService/AuthService.csproj" Id="005c63cf-fa49-4462-b516-9307a3b4f6ae" />
-  </Folder>
-  <Project Path="SmartBank/SmartBank.csproj" />
-</Solution>

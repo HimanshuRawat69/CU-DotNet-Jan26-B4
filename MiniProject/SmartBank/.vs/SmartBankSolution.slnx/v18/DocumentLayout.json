@@ -1,0 +1,984 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\himan\\Downloads\\SmartBank\\SmartBank\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{644DAEE9-9648-4E18-B185-11540BD9B437}|SmartBank.Web\\SmartBank.Web.csproj|c:\\users\\himan\\downloads\\smartbank\\smartbank\\smartbank.web\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{644DAEE9-9648-4E18-B185-11540BD9B437}|SmartBank.Web\\SmartBank.Web.csproj|solutionrelative:smartbank.web\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{644DAEE9-9648-4E18-B185-11540BD9B437}|SmartBank.Web\\SmartBank.Web.csproj|c:\\users\\himan\\downloads\\smartbank\\smartbank\\smartbank.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{644DAEE9-9648-4E18-B185-11540BD9B437}|SmartBank.Web\\SmartBank.Web.csproj|solutionrelative:smartbank.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{644DAEE9-9648-4E18-B185-11540BD9B437}|SmartBank.Web\\SmartBank.Web.csproj|c:\\users\\himan\\downloads\\smartbank\\smartbank\\smartbank.web\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{644DAEE9-9648-4E18-B185-11540BD9B437}|SmartBank.Web\\SmartBank.Web.csproj|solutionrelative:smartbank.web\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\himan\\Downloads\\SmartBank\\SmartBank\\SmartBank.TransactionService\\Migrations\\20260331061216_inijt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SmartBank.TransactionService\\Migrations\\20260331061216_inijt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63A64083-4954-5EC7-2330-3509D808EE96}|APIServices\\SmartBank.AccountService\\SmartBank.AccountService.csproj|c:\\users\\himan\\downloads\\smartbank\\smartbank\\apiservices\\smartbank.accountservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{63A64083-4954-5EC7-2330-3509D808EE96}|APIServices\\SmartBank.AccountService\\SmartBank.AccountService.csproj|solutionrelative:apiservices\\smartbank.accountservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{644DAEE9-9648-4E18-B185-11540BD9B437}|SmartBank.Web\\SmartBank.Web.csproj|c:\\users\\himan\\downloads\\smartbank\\smartbank\\smartbank.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{644DAEE9-9648-4E18-B185-11540BD9B437}|SmartBank.Web\\SmartBank.Web.csproj|solutionrelative:smartbank.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{644DAEE9-9648-4E18-B185-11540BD9B437}|SmartBank.Web\\SmartBank.Web.csproj|c:\\users\\himan\\downloads\\smartbank\\smartbank\\smartbank.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{644DAEE9-9648-4E18-B185-11540BD9B437}|SmartBank.Web\\SmartBank.Web.csproj|solutionrelative:smartbank.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{644DAEE9-9648-4E18-B185-11540BD9B437}|SmartBank.Web\\SmartBank.Web.csproj|c:\\users\\himan\\downloads\\smartbank\\smartbank\\smartbank.web\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{644DAEE9-9648-4E18-B185-11540BD9B437}|SmartBank.Web\\SmartBank.Web.csproj|solutionrelative:smartbank.web\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{644DAEE9-9648-4E18-B185-11540BD9B437}|SmartBank.Web\\SmartBank.Web.csproj|c:\\users\\himan\\downloads\\smartbank\\smartbank\\smartbank.web\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{644DAEE9-9648-4E18-B185-11540BD9B437}|SmartBank.Web\\SmartBank.Web.csproj|solutionrelative:smartbank.web\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63A64083-4954-5EC7-2330-3509D808EE96}|APIServices\\SmartBank.AccountService\\SmartBank.AccountService.csproj|c:\\users\\himan\\downloads\\smartbank\\smartbank\\apiservices\\smartbank.accountservice\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63A64083-4954-5EC7-2330-3509D808EE96}|APIServices\\SmartBank.AccountService\\SmartBank.AccountService.csproj|solutionrelative:apiservices\\smartbank.accountservice\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{644DAEE9-9648-4E18-B185-11540BD9B437}|SmartBank.Web\\SmartBank.Web.csproj|c:\\users\\himan\\downloads\\smartbank\\smartbank\\smartbank.web\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{644DAEE9-9648-4E18-B185-11540BD9B437}|SmartBank.Web\\SmartBank.Web.csproj|solutionrelative:smartbank.web\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{644DAEE9-9648-4E18-B185-11540BD9B437}|SmartBank.Web\\SmartBank.Web.csproj|c:\\users\\himan\\downloads\\smartbank\\smartbank\\smartbank.web\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{644DAEE9-9648-4E18-B185-11540BD9B437}|SmartBank.Web\\SmartBank.Web.csproj|solutionrelative:smartbank.web\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{644DAEE9-9648-4E18-B185-11540BD9B437}|SmartBank.Web\\SmartBank.Web.csproj|c:\\users\\himan\\downloads\\smartbank\\smartbank\\smartbank.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{644DAEE9-9648-4E18-B185-11540BD9B437}|SmartBank.Web\\SmartBank.Web.csproj|solutionrelative:smartbank.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63A64083-4954-5EC7-2330-3509D808EE96}|APIServices\\SmartBank.AccountService\\SmartBank.AccountService.csproj|c:\\users\\himan\\downloads\\smartbank\\smartbank\\apiservices\\smartbank.accountservice\\smartbank.accountservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{63A64083-4954-5EC7-2330-3509D808EE96}|APIServices\\SmartBank.AccountService\\SmartBank.AccountService.csproj|solutionrelative:apiservices\\smartbank.accountservice\\smartbank.accountservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{644DAEE9-9648-4E18-B185-11540BD9B437}|SmartBank.Web\\SmartBank.Web.csproj|c:\\users\\himan\\downloads\\smartbank\\smartbank\\smartbank.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{644DAEE9-9648-4E18-B185-11540BD9B437}|SmartBank.Web\\SmartBank.Web.csproj|solutionrelative:smartbank.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{644DAEE9-9648-4E18-B185-11540BD9B437}|SmartBank.Web\\SmartBank.Web.csproj|c:\\users\\himan\\downloads\\smartbank\\smartbank\\smartbank.web\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{644DAEE9-9648-4E18-B185-11540BD9B437}|SmartBank.Web\\SmartBank.Web.csproj|solutionrelative:smartbank.web\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{644DAEE9-9648-4E18-B185-11540BD9B437}|SmartBank.Web\\SmartBank.Web.csproj|c:\\users\\himan\\downloads\\smartbank\\smartbank\\smartbank.web\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{644DAEE9-9648-4E18-B185-11540BD9B437}|SmartBank.Web\\SmartBank.Web.csproj|solutionrelative:smartbank.web\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{644DAEE9-9648-4E18-B185-11540BD9B437}|SmartBank.Web\\SmartBank.Web.csproj|c:\\users\\himan\\downloads\\smartbank\\smartbank\\smartbank.web\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{644DAEE9-9648-4E18-B185-11540BD9B437}|SmartBank.Web\\SmartBank.Web.csproj|solutionrelative:smartbank.web\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1524085-5AAC-430A-9AF0-B03495C34C6B}|SmartBank.TransactionService\\SmartBank.TransactionService.csproj|c:\\users\\himan\\downloads\\smartbank\\smartbank\\smartbank.transactionservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C1524085-5AAC-430A-9AF0-B03495C34C6B}|SmartBank.TransactionService\\SmartBank.TransactionService.csproj|solutionrelative:smartbank.transactionservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63A64083-4954-5EC7-2330-3509D808EE96}|APIServices\\SmartBank.AccountService\\SmartBank.AccountService.csproj|c:\\users\\himan\\downloads\\smartbank\\smartbank\\apiservices\\smartbank.accountservice\\services\\transactionapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63A64083-4954-5EC7-2330-3509D808EE96}|APIServices\\SmartBank.AccountService\\SmartBank.AccountService.csproj|solutionrelative:apiservices\\smartbank.accountservice\\services\\transactionapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1524085-5AAC-430A-9AF0-B03495C34C6B}|SmartBank.TransactionService\\SmartBank.TransactionService.csproj|c:\\users\\himan\\downloads\\smartbank\\smartbank\\smartbank.transactionservice\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1524085-5AAC-430A-9AF0-B03495C34C6B}|SmartBank.TransactionService\\SmartBank.TransactionService.csproj|solutionrelative:smartbank.transactionservice\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1524085-5AAC-430A-9AF0-B03495C34C6B}|SmartBank.TransactionService\\SmartBank.TransactionService.csproj|c:\\users\\himan\\downloads\\smartbank\\smartbank\\smartbank.transactionservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1524085-5AAC-430A-9AF0-B03495C34C6B}|SmartBank.TransactionService\\SmartBank.TransactionService.csproj|solutionrelative:smartbank.transactionservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1524085-5AAC-430A-9AF0-B03495C34C6B}|SmartBank.TransactionService\\SmartBank.TransactionService.csproj|c:\\users\\himan\\downloads\\smartbank\\smartbank\\smartbank.transactionservice\\repositories\\transactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1524085-5AAC-430A-9AF0-B03495C34C6B}|SmartBank.TransactionService\\SmartBank.TransactionService.csproj|solutionrelative:smartbank.transactionservice\\repositories\\transactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63A64083-4954-5EC7-2330-3509D808EE96}|APIServices\\SmartBank.AccountService\\SmartBank.AccountService.csproj|c:\\users\\himan\\downloads\\smartbank\\smartbank\\apiservices\\smartbank.accountservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63A64083-4954-5EC7-2330-3509D808EE96}|APIServices\\SmartBank.AccountService\\SmartBank.AccountService.csproj|solutionrelative:apiservices\\smartbank.accountservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B562790-E6B5-4037-BFF4-52ABF8C71CFD}|APIServices\\SmartBank.AuthService\\SmartBank.AuthService.csproj|c:\\users\\himan\\downloads\\smartbank\\smartbank\\apiservices\\smartbank.authservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B562790-E6B5-4037-BFF4-52ABF8C71CFD}|APIServices\\SmartBank.AuthService\\SmartBank.AuthService.csproj|solutionrelative:apiservices\\smartbank.authservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63A64083-4954-5EC7-2330-3509D808EE96}|APIServices\\SmartBank.AccountService\\SmartBank.AccountService.csproj|c:\\users\\himan\\downloads\\smartbank\\smartbank\\apiservices\\smartbank.accountservice\\services\\itransactionapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63A64083-4954-5EC7-2330-3509D808EE96}|APIServices\\SmartBank.AccountService\\SmartBank.AccountService.csproj|solutionrelative:apiservices\\smartbank.accountservice\\services\\itransactionapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1524085-5AAC-430A-9AF0-B03495C34C6B}|SmartBank.TransactionService\\SmartBank.TransactionService.csproj|c:\\users\\himan\\downloads\\smartbank\\smartbank\\smartbank.transactionservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C1524085-5AAC-430A-9AF0-B03495C34C6B}|SmartBank.TransactionService\\SmartBank.TransactionService.csproj|solutionrelative:smartbank.transactionservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1524085-5AAC-430A-9AF0-B03495C34C6B}|SmartBank.TransactionService\\SmartBank.TransactionService.csproj|c:\\users\\himan\\downloads\\smartbank\\smartbank\\smartbank.transactionservice\\smartbank.transactionservice.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{C1524085-5AAC-430A-9AF0-B03495C34C6B}|SmartBank.TransactionService\\SmartBank.TransactionService.csproj|solutionrelative:smartbank.transactionservice\\smartbank.transactionservice.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63A64083-4954-5EC7-2330-3509D808EE96}|APIServices\\SmartBank.AccountService\\SmartBank.AccountService.csproj|c:\\users\\himan\\downloads\\smartbank\\smartbank\\apiservices\\smartbank.accountservice\\dtos\\transactioncreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63A64083-4954-5EC7-2330-3509D808EE96}|APIServices\\SmartBank.AccountService\\SmartBank.AccountService.csproj|solutionrelative:apiservices\\smartbank.accountservice\\dtos\\transactioncreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63A64083-4954-5EC7-2330-3509D808EE96}|APIServices\\SmartBank.AccountService\\SmartBank.AccountService.csproj|c:\\users\\himan\\downloads\\smartbank\\smartbank\\apiservices\\smartbank.accountservice\\dtos\\createaccountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63A64083-4954-5EC7-2330-3509D808EE96}|APIServices\\SmartBank.AccountService\\SmartBank.AccountService.csproj|solutionrelative:apiservices\\smartbank.accountservice\\dtos\\createaccountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63A64083-4954-5EC7-2330-3509D808EE96}|APIServices\\SmartBank.AccountService\\SmartBank.AccountService.csproj|c:\\users\\himan\\downloads\\smartbank\\smartbank\\apiservices\\smartbank.accountservice\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63A64083-4954-5EC7-2330-3509D808EE96}|APIServices\\SmartBank.AccountService\\SmartBank.AccountService.csproj|solutionrelative:apiservices\\smartbank.accountservice\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63A64083-4954-5EC7-2330-3509D808EE96}|APIServices\\SmartBank.AccountService\\SmartBank.AccountService.csproj|c:\\users\\himan\\downloads\\smartbank\\smartbank\\apiservices\\smartbank.accountservice\\dtos\\transactiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63A64083-4954-5EC7-2330-3509D808EE96}|APIServices\\SmartBank.AccountService\\SmartBank.AccountService.csproj|solutionrelative:apiservices\\smartbank.accountservice\\dtos\\transactiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63A64083-4954-5EC7-2330-3509D808EE96}|APIServices\\SmartBank.AccountService\\SmartBank.AccountService.csproj|c:\\users\\himan\\downloads\\smartbank\\smartbank\\apiservices\\smartbank.accountservice\\dtos\\accountwithtransactionsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63A64083-4954-5EC7-2330-3509D808EE96}|APIServices\\SmartBank.AccountService\\SmartBank.AccountService.csproj|solutionrelative:apiservices\\smartbank.accountservice\\dtos\\accountwithtransactionsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63A64083-4954-5EC7-2330-3509D808EE96}|APIServices\\SmartBank.AccountService\\SmartBank.AccountService.csproj|c:\\users\\himan\\downloads\\smartbank\\smartbank\\apiservices\\smartbank.accountservice\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63A64083-4954-5EC7-2330-3509D808EE96}|APIServices\\SmartBank.AccountService\\SmartBank.AccountService.csproj|solutionrelative:apiservices\\smartbank.accountservice\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B562790-E6B5-4037-BFF4-52ABF8C71CFD}|APIServices\\SmartBank.AuthService\\SmartBank.AuthService.csproj|c:\\users\\himan\\downloads\\smartbank\\smartbank\\apiservices\\smartbank.authservice\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B562790-E6B5-4037-BFF4-52ABF8C71CFD}|APIServices\\SmartBank.AuthService\\SmartBank.AuthService.csproj|solutionrelative:apiservices\\smartbank.authservice\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B562790-E6B5-4037-BFF4-52ABF8C71CFD}|APIServices\\SmartBank.AuthService\\SmartBank.AuthService.csproj|c:\\users\\himan\\downloads\\smartbank\\smartbank\\apiservices\\smartbank.authservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0B562790-E6B5-4037-BFF4-52ABF8C71CFD}|APIServices\\SmartBank.AuthService\\SmartBank.AuthService.csproj|solutionrelative:apiservices\\smartbank.authservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1524085-5AAC-430A-9AF0-B03495C34C6B}|SmartBank.TransactionService\\SmartBank.TransactionService.csproj|c:\\users\\himan\\downloads\\smartbank\\smartbank\\smartbank.transactionservice\\repositories\\itransactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1524085-5AAC-430A-9AF0-B03495C34C6B}|SmartBank.TransactionService\\SmartBank.TransactionService.csproj|solutionrelative:smartbank.transactionservice\\repositories\\itransactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1524085-5AAC-430A-9AF0-B03495C34C6B}|SmartBank.TransactionService\\SmartBank.TransactionService.csproj|c:\\users\\himan\\downloads\\smartbank\\smartbank\\smartbank.transactionservice\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1524085-5AAC-430A-9AF0-B03495C34C6B}|SmartBank.TransactionService\\SmartBank.TransactionService.csproj|solutionrelative:smartbank.transactionservice\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1524085-5AAC-430A-9AF0-B03495C34C6B}|SmartBank.TransactionService\\SmartBank.TransactionService.csproj|c:\\users\\himan\\downloads\\smartbank\\smartbank\\smartbank.transactionservice\\dtos\\transactiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1524085-5AAC-430A-9AF0-B03495C34C6B}|SmartBank.TransactionService\\SmartBank.TransactionService.csproj|solutionrelative:smartbank.transactionservice\\dtos\\transactiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1524085-5AAC-430A-9AF0-B03495C34C6B}|SmartBank.TransactionService\\SmartBank.TransactionService.csproj|c:\\users\\himan\\downloads\\smartbank\\smartbank\\smartbank.transactionservice\\data\\smartbanktransactionservicecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1524085-5AAC-430A-9AF0-B03495C34C6B}|SmartBank.TransactionService\\SmartBank.TransactionService.csproj|solutionrelative:smartbank.transactionservice\\data\\smartbanktransactionservicecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1524085-5AAC-430A-9AF0-B03495C34C6B}|SmartBank.TransactionService\\SmartBank.TransactionService.csproj|c:\\users\\himan\\downloads\\smartbank\\smartbank\\smartbank.transactionservice\\services\\itransactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1524085-5AAC-430A-9AF0-B03495C34C6B}|SmartBank.TransactionService\\SmartBank.TransactionService.csproj|solutionrelative:smartbank.transactionservice\\services\\itransactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1524085-5AAC-430A-9AF0-B03495C34C6B}|SmartBank.TransactionService\\SmartBank.TransactionService.csproj|c:\\users\\himan\\downloads\\smartbank\\smartbank\\smartbank.transactionservice\\services\\transactionservice1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1524085-5AAC-430A-9AF0-B03495C34C6B}|SmartBank.TransactionService\\SmartBank.TransactionService.csproj|solutionrelative:smartbank.transactionservice\\services\\transactionservice1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63A64083-4954-5EC7-2330-3509D808EE96}|APIServices\\SmartBank.AccountService\\SmartBank.AccountService.csproj|c:\\users\\himan\\downloads\\smartbank\\smartbank\\apiservices\\smartbank.accountservice\\data\\accountdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63A64083-4954-5EC7-2330-3509D808EE96}|APIServices\\SmartBank.AccountService\\SmartBank.AccountService.csproj|solutionrelative:apiservices\\smartbank.accountservice\\data\\accountdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B562790-E6B5-4037-BFF4-52ABF8C71CFD}|APIServices\\SmartBank.AuthService\\SmartBank.AuthService.csproj|c:\\users\\himan\\downloads\\smartbank\\smartbank\\apiservices\\smartbank.authservice\\data\\authdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B562790-E6B5-4037-BFF4-52ABF8C71CFD}|APIServices\\SmartBank.AuthService\\SmartBank.AuthService.csproj|solutionrelative:apiservices\\smartbank.authservice\\data\\authdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63A64083-4954-5EC7-2330-3509D808EE96}|APIServices\\SmartBank.AccountService\\SmartBank.AccountService.csproj|c:\\users\\himan\\downloads\\smartbank\\smartbank\\apiservices\\smartbank.accountservice\\exceptions\\globalexceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63A64083-4954-5EC7-2330-3509D808EE96}|APIServices\\SmartBank.AccountService\\SmartBank.AccountService.csproj|solutionrelative:apiservices\\smartbank.accountservice\\exceptions\\globalexceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63A64083-4954-5EC7-2330-3509D808EE96}|APIServices\\SmartBank.AccountService\\SmartBank.AccountService.csproj|c:\\users\\himan\\downloads\\smartbank\\smartbank\\apiservices\\smartbank.accountservice\\exceptions\\badrequestexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63A64083-4954-5EC7-2330-3509D808EE96}|APIServices\\SmartBank.AccountService\\SmartBank.AccountService.csproj|solutionrelative:apiservices\\smartbank.accountservice\\exceptions\\badrequestexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63A64083-4954-5EC7-2330-3509D808EE96}|APIServices\\SmartBank.AccountService\\SmartBank.AccountService.csproj|c:\\users\\himan\\downloads\\smartbank\\smartbank\\apiservices\\smartbank.accountservice\\repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63A64083-4954-5EC7-2330-3509D808EE96}|APIServices\\SmartBank.AccountService\\SmartBank.AccountService.csproj|solutionrelative:apiservices\\smartbank.accountservice\\repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63A64083-4954-5EC7-2330-3509D808EE96}|APIServices\\SmartBank.AccountService\\SmartBank.AccountService.csproj|c:\\users\\himan\\downloads\\smartbank\\smartbank\\apiservices\\smartbank.accountservice\\repositories\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63A64083-4954-5EC7-2330-3509D808EE96}|APIServices\\SmartBank.AccountService\\SmartBank.AccountService.csproj|solutionrelative:apiservices\\smartbank.accountservice\\repositories\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63A64083-4954-5EC7-2330-3509D808EE96}|APIServices\\SmartBank.AccountService\\SmartBank.AccountService.csproj|c:\\users\\himan\\downloads\\smartbank\\smartbank\\apiservices\\smartbank.accountservice\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63A64083-4954-5EC7-2330-3509D808EE96}|APIServices\\SmartBank.AccountService\\SmartBank.AccountService.csproj|solutionrelative:apiservices\\smartbank.accountservice\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B562790-E6B5-4037-BFF4-52ABF8C71CFD}|APIServices\\SmartBank.AuthService\\SmartBank.AuthService.csproj|c:\\users\\himan\\downloads\\smartbank\\smartbank\\apiservices\\smartbank.authservice\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B562790-E6B5-4037-BFF4-52ABF8C71CFD}|APIServices\\SmartBank.AuthService\\SmartBank.AuthService.csproj|solutionrelative:apiservices\\smartbank.authservice\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1524085-5AAC-430A-9AF0-B03495C34C6B}|SmartBank.TransactionService\\SmartBank.TransactionService.csproj|c:\\users\\himan\\downloads\\smartbank\\smartbank\\smartbank.transactionservice\\migrations\\20260331061328_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1524085-5AAC-430A-9AF0-B03495C34C6B}|SmartBank.TransactionService\\SmartBank.TransactionService.csproj|solutionrelative:smartbank.transactionservice\\migrations\\20260331061328_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63A64083-4954-5EC7-2330-3509D808EE96}|APIServices\\SmartBank.AccountService\\SmartBank.AccountService.csproj|c:\\users\\himan\\downloads\\smartbank\\smartbank\\apiservices\\smartbank.accountservice\\migrations\\20260331061148_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63A64083-4954-5EC7-2330-3509D808EE96}|APIServices\\SmartBank.AccountService\\SmartBank.AccountService.csproj|solutionrelative:apiservices\\smartbank.accountservice\\migrations\\20260331061148_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B562790-E6B5-4037-BFF4-52ABF8C71CFD}|APIServices\\SmartBank.AuthService\\SmartBank.AuthService.csproj|c:\\users\\himan\\downloads\\smartbank\\smartbank\\apiservices\\smartbank.authservice\\migrations\\20260331061107_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B562790-E6B5-4037-BFF4-52ABF8C71CFD}|APIServices\\SmartBank.AuthService\\SmartBank.AuthService.csproj|solutionrelative:apiservices\\smartbank.authservice\\migrations\\20260331061107_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 17,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{797f5b3d-853a-4854-a9f2-c488bac2661b}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\himan\\Downloads\\SmartBank\\SmartBank\\SmartBank.Web\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "SmartBank.Web\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\himan\\Downloads\\SmartBank\\SmartBank\\SmartBank.Web\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "SmartBank.Web\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-31T06:28:22.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "20260331061328_init.cs",
+              "DocumentMoniker": "C:\\Users\\himan\\Downloads\\SmartBank\\SmartBank\\SmartBank.TransactionService\\Migrations\\20260331061328_init.cs",
+              "RelativeDocumentMoniker": "SmartBank.TransactionService\\Migrations\\20260331061328_init.cs",
+              "ToolTip": "C:\\Users\\himan\\Downloads\\SmartBank\\SmartBank\\SmartBank.TransactionService\\Migrations\\20260331061328_init.cs",
+              "RelativeToolTip": "SmartBank.TransactionService\\Migrations\\20260331061328_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T06:13:28.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20260331061216_inijt.cs",
+              "DocumentMoniker": "C:\\Users\\himan\\Downloads\\SmartBank\\SmartBank\\SmartBank.TransactionService\\Migrations\\20260331061216_inijt.cs",
+              "RelativeDocumentMoniker": "SmartBank.TransactionService\\Migrations\\20260331061216_inijt.cs",
+              "ToolTip": "C:\\Users\\himan\\Downloads\\SmartBank\\SmartBank\\SmartBank.TransactionService\\Migrations\\20260331061216_inijt.cs",
+              "RelativeToolTip": "SmartBank.TransactionService\\Migrations\\20260331061216_inijt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T06:12:16.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "20260331061148_init.cs",
+              "DocumentMoniker": "C:\\Users\\himan\\Downloads\\SmartBank\\SmartBank\\APIServices\\SmartBank.AccountService\\Migrations\\20260331061148_init.cs",
+              "RelativeDocumentMoniker": "APIServices\\SmartBank.AccountService\\Migrations\\20260331061148_init.cs",
+              "ToolTip": "C:\\Users\\himan\\Downloads\\SmartBank\\SmartBank\\APIServices\\SmartBank.AccountService\\Migrations\\20260331061148_init.cs",
+              "RelativeToolTip": "APIServices\\SmartBank.AccountService\\Migrations\\20260331061148_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T06:11:49.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "20260331061107_init.cs",
+              "DocumentMoniker": "C:\\Users\\himan\\Downloads\\SmartBank\\SmartBank\\APIServices\\SmartBank.AuthService\\Migrations\\20260331061107_init.cs",
+              "RelativeDocumentMoniker": "APIServices\\SmartBank.AuthService\\Migrations\\20260331061107_init.cs",
+              "ToolTip": "C:\\Users\\himan\\Downloads\\SmartBank\\SmartBank\\APIServices\\SmartBank.AuthService\\Migrations\\20260331061107_init.cs",
+              "RelativeToolTip": "APIServices\\SmartBank.AuthService\\Migrations\\20260331061107_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T06:11:07.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\himan\\Downloads\\SmartBank\\SmartBank\\SmartBank.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "SmartBank.Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\himan\\Downloads\\SmartBank\\SmartBank\\SmartBank.Web\\appsettings.json",
+              "RelativeToolTip": "SmartBank.Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-31T05:22:30.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\himan\\Downloads\\SmartBank\\SmartBank\\SmartBank.Web\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "SmartBank.Web\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\himan\\Downloads\\SmartBank\\SmartBank\\SmartBank.Web\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "SmartBank.Web\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAACkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-30T09:01:03.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\himan\\Downloads\\SmartBank\\SmartBank\\SmartBank.Web\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "SmartBank.Web\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\himan\\Downloads\\SmartBank\\SmartBank\\SmartBank.Web\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "SmartBank.Web\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAP4AAAAAAAAAAIAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-03-31T06:18:23.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\himan\\Downloads\\SmartBank\\SmartBank\\SmartBank.Web\\Views\\Auth\\Login.cshtml",
+              "RelativeDocumentMoniker": "SmartBank.Web\\Views\\Auth\\Login.cshtml",
+              "ToolTip": "C:\\Users\\himan\\Downloads\\SmartBank\\SmartBank\\SmartBank.Web\\Views\\Auth\\Login.cshtml",
+              "RelativeToolTip": "SmartBank.Web\\Views\\Auth\\Login.cshtml",
+              "ViewState": "AgIAAD8AAAAAAAAAAIBJwEEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-30T09:14:16.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\himan\\Downloads\\SmartBank\\SmartBank\\SmartBank.Web\\Views\\Auth\\Register.cshtml",
+              "RelativeDocumentMoniker": "SmartBank.Web\\Views\\Auth\\Register.cshtml",
+              "ToolTip": "C:\\Users\\himan\\Downloads\\SmartBank\\SmartBank\\SmartBank.Web\\Views\\Auth\\Register.cshtml",
+              "RelativeToolTip": "SmartBank.Web\\Views\\Auth\\Register.cshtml",
+              "ViewState": "AgIAAFEAAAAAAAAAAIBJwFMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-30T09:07:53.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "C:\\Users\\himan\\Downloads\\SmartBank\\SmartBank\\APIServices\\SmartBank.AccountService\\Services\\AccountService.cs",
+              "RelativeDocumentMoniker": "APIServices\\SmartBank.AccountService\\Services\\AccountService.cs",
+              "ToolTip": "C:\\Users\\himan\\Downloads\\SmartBank\\SmartBank\\APIServices\\SmartBank.AccountService\\Services\\AccountService.cs",
+              "RelativeToolTip": "APIServices\\SmartBank.AccountService\\Services\\AccountService.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAwwE0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T08:17:41.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\himan\\Downloads\\SmartBank\\SmartBank\\SmartBank.Web\\Program.cs",
+              "RelativeDocumentMoniker": "SmartBank.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\himan\\Downloads\\SmartBank\\SmartBank\\SmartBank.Web\\Program.cs",
+              "RelativeToolTip": "SmartBank.Web\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T09:22:55.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\himan\\Downloads\\SmartBank\\SmartBank\\APIServices\\SmartBank.AccountService\\appsettings.json",
+              "RelativeDocumentMoniker": "APIServices\\SmartBank.AccountService\\appsettings.json",
+              "ToolTip": "C:\\Users\\himan\\Downloads\\SmartBank\\SmartBank\\APIServices\\SmartBank.AccountService\\appsettings.json",
+              "RelativeToolTip": "APIServices\\SmartBank.AccountService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-30T04:21:40.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\himan\\Downloads\\SmartBank\\SmartBank\\SmartBank.Web\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "SmartBank.Web\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\himan\\Downloads\\SmartBank\\SmartBank\\SmartBank.Web\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "SmartBank.Web\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAM0AAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T09:19:44.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\himan\\Downloads\\SmartBank\\SmartBank\\SmartBank.Web\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "SmartBank.Web\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\himan\\Downloads\\SmartBank\\SmartBank\\SmartBank.Web\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "SmartBank.Web\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAIwAQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T08:57:59.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\himan\\Downloads\\SmartBank\\SmartBank\\SmartBank.Web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SmartBank.Web\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\himan\\Downloads\\SmartBank\\SmartBank\\SmartBank.Web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SmartBank.Web\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T09:37:16.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\himan\\Downloads\\SmartBank\\SmartBank\\SmartBank.Web\\Views\\Account\\Index.cshtml",
+              "RelativeDocumentMoniker": "SmartBank.Web\\Views\\Account\\Index.cshtml",
+              "ToolTip": "C:\\Users\\himan\\Downloads\\SmartBank\\SmartBank\\SmartBank.Web\\Views\\Account\\Index.cshtml",
+              "RelativeToolTip": "SmartBank.Web\\Views\\Account\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-30T09:22:34.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SmartBank.AccountService.csproj",
+              "DocumentMoniker": "C:\\Users\\himan\\Downloads\\SmartBank\\SmartBank\\APIServices\\SmartBank.AccountService\\SmartBank.AccountService.csproj",
+              "RelativeDocumentMoniker": "APIServices\\SmartBank.AccountService\\SmartBank.AccountService.csproj",
+              "ToolTip": "C:\\Users\\himan\\Downloads\\SmartBank\\SmartBank\\APIServices\\SmartBank.AccountService\\SmartBank.AccountService.csproj",
+              "RelativeToolTip": "APIServices\\SmartBank.AccountService\\SmartBank.AccountService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-30T10:31:58.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\himan\\Downloads\\SmartBank\\SmartBank\\SmartBank.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SmartBank.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\himan\\Downloads\\SmartBank\\SmartBank\\SmartBank.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SmartBank.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAFYAAAAAAAAAAIBJwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-30T10:03:05.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\himan\\Downloads\\SmartBank\\SmartBank\\SmartBank.Web\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "SmartBank.Web\\Models\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\himan\\Downloads\\SmartBank\\SmartBank\\SmartBank.Web\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "SmartBank.Web\\Models\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T08:54:29.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\himan\\Downloads\\SmartBank\\SmartBank\\SmartBank.Web\\Models\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "SmartBank.Web\\Models\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\himan\\Downloads\\SmartBank\\SmartBank\\SmartBank.Web\\Models\\RegisterViewModel.cs",
+              "RelativeToolTip": "SmartBank.Web\\Models\\RegisterViewModel.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T08:53:40.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TransactionApiClient.cs",
+              "DocumentMoniker": "C:\\Users\\himan\\Downloads\\SmartBank\\SmartBank\\APIServices\\SmartBank.AccountService\\Services\\TransactionApiClient.cs",
+              "RelativeDocumentMoniker": "APIServices\\SmartBank.AccountService\\Services\\TransactionApiClient.cs",
+              "ToolTip": "C:\\Users\\himan\\Downloads\\SmartBank\\SmartBank\\APIServices\\SmartBank.AccountService\\Services\\TransactionApiClient.cs",
+              "RelativeToolTip": "APIServices\\SmartBank.AccountService\\Services\\TransactionApiClient.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAD8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T08:17:59.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TransactionController.cs",
+              "DocumentMoniker": "C:\\Users\\himan\\Downloads\\SmartBank\\SmartBank\\SmartBank.TransactionService\\Controllers\\TransactionController.cs",
+              "RelativeDocumentMoniker": "SmartBank.TransactionService\\Controllers\\TransactionController.cs",
+              "ToolTip": "C:\\Users\\himan\\Downloads\\SmartBank\\SmartBank\\SmartBank.TransactionService\\Controllers\\TransactionController.cs",
+              "RelativeToolTip": "SmartBank.TransactionService\\Controllers\\TransactionController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T04:18:48.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\himan\\Downloads\\SmartBank\\SmartBank\\SmartBank.TransactionService\\Program.cs",
+              "RelativeDocumentMoniker": "SmartBank.TransactionService\\Program.cs",
+              "ToolTip": "C:\\Users\\himan\\Downloads\\SmartBank\\SmartBank\\SmartBank.TransactionService\\Program.cs",
+              "RelativeToolTip": "SmartBank.TransactionService\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBIAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T06:46:40.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\himan\\Downloads\\SmartBank\\SmartBank\\SmartBank.TransactionService\\appsettings.json",
+              "RelativeDocumentMoniker": "SmartBank.TransactionService\\appsettings.json",
+              "ToolTip": "C:\\Users\\himan\\Downloads\\SmartBank\\SmartBank\\SmartBank.TransactionService\\appsettings.json",
+              "RelativeToolTip": "SmartBank.TransactionService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-30T04:19:49.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TransactionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\himan\\Downloads\\SmartBank\\SmartBank\\SmartBank.TransactionService\\Repositories\\TransactionRepository.cs",
+              "RelativeDocumentMoniker": "SmartBank.TransactionService\\Repositories\\TransactionRepository.cs",
+              "ToolTip": "C:\\Users\\himan\\Downloads\\SmartBank\\SmartBank\\SmartBank.TransactionService\\Repositories\\TransactionRepository.cs",
+              "RelativeToolTip": "SmartBank.TransactionService\\Repositories\\TransactionRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T06:25:07.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ITransactionApiClient.cs",
+              "DocumentMoniker": "C:\\Users\\himan\\Downloads\\SmartBank\\SmartBank\\APIServices\\SmartBank.AccountService\\Services\\ITransactionApiClient.cs",
+              "RelativeDocumentMoniker": "APIServices\\SmartBank.AccountService\\Services\\ITransactionApiClient.cs",
+              "ToolTip": "C:\\Users\\himan\\Downloads\\SmartBank\\SmartBank\\APIServices\\SmartBank.AccountService\\Services\\ITransactionApiClient.cs",
+              "RelativeToolTip": "APIServices\\SmartBank.AccountService\\Services\\ITransactionApiClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T08:19:28.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\himan\\Downloads\\SmartBank\\SmartBank\\APIServices\\SmartBank.AccountService\\Program.cs",
+              "RelativeDocumentMoniker": "APIServices\\SmartBank.AccountService\\Program.cs",
+              "ToolTip": "C:\\Users\\himan\\Downloads\\SmartBank\\SmartBank\\APIServices\\SmartBank.AccountService\\Program.cs",
+              "RelativeToolTip": "APIServices\\SmartBank.AccountService\\Program.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAADwvy4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T08:20:20.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\himan\\Downloads\\SmartBank\\SmartBank\\APIServices\\SmartBank.AuthService\\Program.cs",
+              "RelativeDocumentMoniker": "APIServices\\SmartBank.AuthService\\Program.cs",
+              "ToolTip": "C:\\Users\\himan\\Downloads\\SmartBank\\SmartBank\\APIServices\\SmartBank.AuthService\\Program.cs",
+              "RelativeToolTip": "APIServices\\SmartBank.AuthService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T04:28:38.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\himan\\Downloads\\SmartBank\\SmartBank\\SmartBank.TransactionService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "SmartBank.TransactionService\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\himan\\Downloads\\SmartBank\\SmartBank\\SmartBank.TransactionService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "SmartBank.TransactionService\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAuwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-30T08:16:36.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "SmartBank.TransactionService",
+              "DocumentMoniker": "C:\\Users\\himan\\Downloads\\SmartBank\\SmartBank\\SmartBank.TransactionService\\SmartBank.TransactionService.csproj",
+              "RelativeDocumentMoniker": "SmartBank.TransactionService\\SmartBank.TransactionService.csproj",
+              "ToolTip": "C:\\Users\\himan\\Downloads\\SmartBank\\SmartBank\\SmartBank.TransactionService\\SmartBank.TransactionService.csproj",
+              "RelativeToolTip": "SmartBank.TransactionService\\SmartBank.TransactionService.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-30T08:15:58.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\himan\\Downloads\\SmartBank\\SmartBank\\APIServices\\SmartBank.AccountService\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "APIServices\\SmartBank.AccountService\\Models\\Account.cs",
+              "ToolTip": "C:\\Users\\himan\\Downloads\\SmartBank\\SmartBank\\APIServices\\SmartBank.AccountService\\Models\\Account.cs",
+              "RelativeToolTip": "APIServices\\SmartBank.AccountService\\Models\\Account.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T16:21:15.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CreateAccountDto.cs",
+              "DocumentMoniker": "C:\\Users\\himan\\Downloads\\SmartBank\\SmartBank\\APIServices\\SmartBank.AccountService\\DTOs\\CreateAccountDto.cs",
+              "RelativeDocumentMoniker": "APIServices\\SmartBank.AccountService\\DTOs\\CreateAccountDto.cs",
+              "ToolTip": "C:\\Users\\himan\\Downloads\\SmartBank\\SmartBank\\APIServices\\SmartBank.AccountService\\DTOs\\CreateAccountDto.cs",
+              "RelativeToolTip": "APIServices\\SmartBank.AccountService\\DTOs\\CreateAccountDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T06:59:30.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "TransactionCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\himan\\Downloads\\SmartBank\\SmartBank\\APIServices\\SmartBank.AccountService\\DTOs\\TransactionCreateDto.cs",
+              "RelativeDocumentMoniker": "APIServices\\SmartBank.AccountService\\DTOs\\TransactionCreateDto.cs",
+              "ToolTip": "C:\\Users\\himan\\Downloads\\SmartBank\\SmartBank\\APIServices\\SmartBank.AccountService\\DTOs\\TransactionCreateDto.cs",
+              "RelativeToolTip": "APIServices\\SmartBank.AccountService\\DTOs\\TransactionCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T07:00:31.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "TransactionDto.cs",
+              "DocumentMoniker": "C:\\Users\\himan\\Downloads\\SmartBank\\SmartBank\\APIServices\\SmartBank.AccountService\\DTOs\\TransactionDto.cs",
+              "RelativeDocumentMoniker": "APIServices\\SmartBank.AccountService\\DTOs\\TransactionDto.cs",
+              "ToolTip": "C:\\Users\\himan\\Downloads\\SmartBank\\SmartBank\\APIServices\\SmartBank.AccountService\\DTOs\\TransactionDto.cs",
+              "RelativeToolTip": "APIServices\\SmartBank.AccountService\\DTOs\\TransactionDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T07:00:35.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AccountWithTransactionsDto.cs",
+              "DocumentMoniker": "C:\\Users\\himan\\Downloads\\SmartBank\\SmartBank\\APIServices\\SmartBank.AccountService\\DTOs\\AccountWithTransactionsDto.cs",
+              "RelativeDocumentMoniker": "APIServices\\SmartBank.AccountService\\DTOs\\AccountWithTransactionsDto.cs",
+              "ToolTip": "C:\\Users\\himan\\Downloads\\SmartBank\\SmartBank\\APIServices\\SmartBank.AccountService\\DTOs\\AccountWithTransactionsDto.cs",
+              "RelativeToolTip": "APIServices\\SmartBank.AccountService\\DTOs\\AccountWithTransactionsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T07:00:33.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\himan\\Downloads\\SmartBank\\SmartBank\\APIServices\\SmartBank.AccountService\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "APIServices\\SmartBank.AccountService\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\himan\\Downloads\\SmartBank\\SmartBank\\APIServices\\SmartBank.AccountService\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "APIServices\\SmartBank.AccountService\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAwwIwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T08:37:03.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\himan\\Downloads\\SmartBank\\SmartBank\\APIServices\\SmartBank.AuthService\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "APIServices\\SmartBank.AuthService\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\himan\\Downloads\\SmartBank\\SmartBank\\APIServices\\SmartBank.AuthService\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "APIServices\\SmartBank.AuthService\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAwwEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T04:28:24.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\himan\\Downloads\\SmartBank\\SmartBank\\APIServices\\SmartBank.AuthService\\appsettings.json",
+              "RelativeDocumentMoniker": "APIServices\\SmartBank.AuthService\\appsettings.json",
+              "ToolTip": "C:\\Users\\himan\\Downloads\\SmartBank\\SmartBank\\APIServices\\SmartBank.AuthService\\appsettings.json",
+              "RelativeToolTip": "APIServices\\SmartBank.AuthService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-30T04:21:59.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\himan\\Downloads\\SmartBank\\SmartBank\\SmartBank.TransactionService\\Models\\Transaction.cs",
+              "RelativeDocumentMoniker": "SmartBank.TransactionService\\Models\\Transaction.cs",
+              "ToolTip": "C:\\Users\\himan\\Downloads\\SmartBank\\SmartBank\\SmartBank.TransactionService\\Models\\Transaction.cs",
+              "RelativeToolTip": "SmartBank.TransactionService\\Models\\Transaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T06:19:31.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ITransactionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\himan\\Downloads\\SmartBank\\SmartBank\\SmartBank.TransactionService\\Repositories\\ITransactionRepository.cs",
+              "RelativeDocumentMoniker": "SmartBank.TransactionService\\Repositories\\ITransactionRepository.cs",
+              "ToolTip": "C:\\Users\\himan\\Downloads\\SmartBank\\SmartBank\\SmartBank.TransactionService\\Repositories\\ITransactionRepository.cs",
+              "RelativeToolTip": "SmartBank.TransactionService\\Repositories\\ITransactionRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T06:24:51.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "TransactionDto.cs",
+              "DocumentMoniker": "C:\\Users\\himan\\Downloads\\SmartBank\\SmartBank\\SmartBank.TransactionService\\DTOs\\TransactionDto.cs",
+              "RelativeDocumentMoniker": "SmartBank.TransactionService\\DTOs\\TransactionDto.cs",
+              "ToolTip": "C:\\Users\\himan\\Downloads\\SmartBank\\SmartBank\\SmartBank.TransactionService\\DTOs\\TransactionDto.cs",
+              "RelativeToolTip": "SmartBank.TransactionService\\DTOs\\TransactionDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T06:24:10.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "SmartBankTransactionServiceContext.cs",
+              "DocumentMoniker": "C:\\Users\\himan\\Downloads\\SmartBank\\SmartBank\\SmartBank.TransactionService\\Data\\SmartBankTransactionServiceContext.cs",
+              "RelativeDocumentMoniker": "SmartBank.TransactionService\\Data\\SmartBankTransactionServiceContext.cs",
+              "ToolTip": "C:\\Users\\himan\\Downloads\\SmartBank\\SmartBank\\SmartBank.TransactionService\\Data\\SmartBankTransactionServiceContext.cs",
+              "RelativeToolTip": "SmartBank.TransactionService\\Data\\SmartBankTransactionServiceContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T06:29:57.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ITransactionService.cs",
+              "DocumentMoniker": "C:\\Users\\himan\\Downloads\\SmartBank\\SmartBank\\SmartBank.TransactionService\\Services\\ITransactionService.cs",
+              "RelativeDocumentMoniker": "SmartBank.TransactionService\\Services\\ITransactionService.cs",
+              "ToolTip": "C:\\Users\\himan\\Downloads\\SmartBank\\SmartBank\\SmartBank.TransactionService\\Services\\ITransactionService.cs",
+              "RelativeToolTip": "SmartBank.TransactionService\\Services\\ITransactionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T06:25:43.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "TransactionService1.cs",
+              "DocumentMoniker": "C:\\Users\\himan\\Downloads\\SmartBank\\SmartBank\\SmartBank.TransactionService\\Services\\TransactionService1.cs",
+              "RelativeDocumentMoniker": "SmartBank.TransactionService\\Services\\TransactionService1.cs",
+              "ToolTip": "C:\\Users\\himan\\Downloads\\SmartBank\\SmartBank\\SmartBank.TransactionService\\Services\\TransactionService1.cs",
+              "RelativeToolTip": "SmartBank.TransactionService\\Services\\TransactionService1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T06:26:09.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "AccountDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\himan\\Downloads\\SmartBank\\SmartBank\\APIServices\\SmartBank.AccountService\\Data\\AccountDbContext.cs",
+              "RelativeDocumentMoniker": "APIServices\\SmartBank.AccountService\\Data\\AccountDbContext.cs",
+              "ToolTip": "C:\\Users\\himan\\Downloads\\SmartBank\\SmartBank\\APIServices\\SmartBank.AccountService\\Data\\AccountDbContext.cs",
+              "RelativeToolTip": "APIServices\\SmartBank.AccountService\\Data\\AccountDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T16:50:29.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "AuthDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\himan\\Downloads\\SmartBank\\SmartBank\\APIServices\\SmartBank.AuthService\\Data\\AuthDbContext.cs",
+              "RelativeDocumentMoniker": "APIServices\\SmartBank.AuthService\\Data\\AuthDbContext.cs",
+              "ToolTip": "C:\\Users\\himan\\Downloads\\SmartBank\\SmartBank\\APIServices\\SmartBank.AuthService\\Data\\AuthDbContext.cs",
+              "RelativeToolTip": "APIServices\\SmartBank.AuthService\\Data\\AuthDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T16:50:13.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "GlobalExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\himan\\Downloads\\SmartBank\\SmartBank\\APIServices\\SmartBank.AccountService\\Exceptions\\GlobalExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "APIServices\\SmartBank.AccountService\\Exceptions\\GlobalExceptionMiddleware.cs",
+              "ToolTip": "C:\\Users\\himan\\Downloads\\SmartBank\\SmartBank\\APIServices\\SmartBank.AccountService\\Exceptions\\GlobalExceptionMiddleware.cs",
+              "RelativeToolTip": "APIServices\\SmartBank.AccountService\\Exceptions\\GlobalExceptionMiddleware.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T16:33:21.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "BadRequestException.cs",
+              "DocumentMoniker": "C:\\Users\\himan\\Downloads\\SmartBank\\SmartBank\\APIServices\\SmartBank.AccountService\\Exceptions\\BadRequestException.cs",
+              "RelativeDocumentMoniker": "APIServices\\SmartBank.AccountService\\Exceptions\\BadRequestException.cs",
+              "ToolTip": "C:\\Users\\himan\\Downloads\\SmartBank\\SmartBank\\APIServices\\SmartBank.AccountService\\Exceptions\\BadRequestException.cs",
+              "RelativeToolTip": "APIServices\\SmartBank.AccountService\\Exceptions\\BadRequestException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T16:32:37.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "AccountRepository.cs",
+              "DocumentMoniker": "C:\\Users\\himan\\Downloads\\SmartBank\\SmartBank\\APIServices\\SmartBank.AccountService\\Repositories\\AccountRepository.cs",
+              "RelativeDocumentMoniker": "APIServices\\SmartBank.AccountService\\Repositories\\AccountRepository.cs",
+              "ToolTip": "C:\\Users\\himan\\Downloads\\SmartBank\\SmartBank\\APIServices\\SmartBank.AccountService\\Repositories\\AccountRepository.cs",
+              "RelativeToolTip": "APIServices\\SmartBank.AccountService\\Repositories\\AccountRepository.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwBAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T16:24:50.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "IAccountRepository.cs",
+              "DocumentMoniker": "C:\\Users\\himan\\Downloads\\SmartBank\\SmartBank\\APIServices\\SmartBank.AccountService\\Repositories\\IAccountRepository.cs",
+              "RelativeDocumentMoniker": "APIServices\\SmartBank.AccountService\\Repositories\\IAccountRepository.cs",
+              "ToolTip": "C:\\Users\\himan\\Downloads\\SmartBank\\SmartBank\\APIServices\\SmartBank.AccountService\\Repositories\\IAccountRepository.cs",
+              "RelativeToolTip": "APIServices\\SmartBank.AccountService\\Repositories\\IAccountRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T16:25:01.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\himan\\Downloads\\SmartBank\\SmartBank\\APIServices\\SmartBank.AccountService\\Models\\Transaction.cs",
+              "RelativeDocumentMoniker": "APIServices\\SmartBank.AccountService\\Models\\Transaction.cs",
+              "ToolTip": "C:\\Users\\himan\\Downloads\\SmartBank\\SmartBank\\APIServices\\SmartBank.AccountService\\Models\\Transaction.cs",
+              "RelativeToolTip": "APIServices\\SmartBank.AccountService\\Models\\Transaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T16:21:09.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\himan\\Downloads\\SmartBank\\SmartBank\\APIServices\\SmartBank.AuthService\\Models\\Transaction.cs",
+              "RelativeDocumentMoniker": "APIServices\\SmartBank.AuthService\\Models\\Transaction.cs",
+              "ToolTip": "C:\\Users\\himan\\Downloads\\SmartBank\\SmartBank\\APIServices\\SmartBank.AuthService\\Models\\Transaction.cs",
+              "RelativeToolTip": "APIServices\\SmartBank.AuthService\\Models\\Transaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T10:10:23.888Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 223,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 223,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

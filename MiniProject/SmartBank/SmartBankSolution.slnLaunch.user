@@ -1,0 +1,23 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "APIServices\\SmartBank.AccountService\\SmartBank.AccountService.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "APIServices\\SmartBank.AuthService\\SmartBank.AuthService.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "SmartBank.TransactionService\\SmartBank.TransactionService.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "SmartBank.Web\\SmartBank.Web.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

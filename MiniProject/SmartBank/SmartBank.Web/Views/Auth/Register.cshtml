@@ -1,0 +1,84 @@
+﻿@model SmartBank.Web.Models.RegisterViewModel
+@{
+    ViewData["Title"] = "Register";
+}
+
+<div class="card p-3 fade-in" style="max-width:900px; margin:20px auto;">
+    <div class="row g-0">
+        <div class="col-md-5 d-none d-md-flex align-items-center justify-content-center" style="background:linear-gradient(135deg,var(--secondary-color),var(--primary-color)); color:#fff; border-top-left-radius:12px; border-bottom-left-radius:12px; padding:30px;">
+            <div>
+                <h2 class="mb-2">Welcome to SmartBank</h2>
+                <p>Join thousands of satisfied customers who trust SmartBank for their financial needs.</p>
+                <ul class="list-unstyled mt-3">
+                    <li><i class="bi bi-shield-check me-2"></i> Secure & Encrypted</li>
+                    <li><i class="bi bi-lightning-charge me-2"></i> Instant Transactions</li>
+                    <li><i class="bi bi-graph-up-arrow me-2"></i> Real-time Balance Updates</li>
+                </ul>
+            </div>
+        </div>
+        <div class="col-md-7 p-4">
+            <h3>Create Account</h3>
+            <p class="text-muted">Get started with your SmartBank account today</p>
+
+            @if (ViewBag.Error != null)
+            {
+                <div class="alert alert-danger" role="alert">
+                    <i class="bi bi-exclamation-triangle-fill"></i> @ViewBag.Error
+                </div>
+            }
+
+            @if (ViewBag.Success != null)
+            {
+                <div class="alert alert-success" role="alert">
+                    <i class="bi bi-check-circle-fill"></i> @ViewBag.Success
+                </div>
+            }
+
+            <form method="post" id="registerForm" novalidate>
+                <div class="mb-3">
+                    <label asp-for="FullName" class="form-label">Full Name</label>
+                    <input asp-for="FullName" class="form-control" placeholder="John Doe" />
+                    <span asp-validation-for="FullName" class="text-danger"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="Email" class="form-label">Email Address</label>
+                    <input asp-for="Email" class="form-control" type="email" placeholder="john@example.com" />
+                    <span asp-validation-for="Email" class="text-danger"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="Password" class="form-label">Password</label>
+                    <input asp-for="Password" class="form-control" type="password" placeholder="••••••••" />
+                    <span asp-validation-for="Password" class="text-danger"></span>
+                </div>
+
+                <input asp-for="Role" type="hidden" value="Customer" />
+
+                <button type="submit" class="btn btn-primary w-100" id="registerBtn">
+                    <i class="bi bi-person-plus me-1"></i> Create Account
+                </button>
+            </form>
+
+            <div class="text-center mt-3">
+                Already have an account? <a asp-controller="Auth" asp-action="Login">Sign In</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script>
+        (function(){
+            var form = document.getElementById('registerForm');
+            if (!form) return;
+            form.addEventListener('submit', function (e) {
+                var btn = document.getElementById('registerBtn');
+                if (btn) {
+                    btn.disabled = true;
+                    btn.innerHTML = '<span class="spinner-border spinner-border-sm me-2" role="status" aria-hidden="true"></span>Creating Account...';
+                }
+            });
+        })();
+    </script>
+}

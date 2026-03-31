@@ -1,0 +1,52 @@
+﻿@model IEnumerable<GlobalMartPr.Models.Product>
+
+@{
+    ViewData["Title"] = "Products";
+}
+
+<div class="container py-4">
+    <div class="card">
+        <div class="card-header">
+            <h2 class="card-title mb-0">Products</h2>
+            <small class="text-muted">Showing products</small>
+        </div>
+
+        <div class="card-body p-0">
+            <table class="table table-striped table-hover mb-0">
+                <thead>
+                    <tr>
+                        <th>@Html.DisplayNameFor(model => model.ProductId)</th>
+                        <th>@Html.DisplayNameFor(model => model.Name)</th>
+                        <th>@Html.DisplayNameFor(model => model.Price)</th>
+                        <th>Actions</th>
+                    </tr>
+                </thead>
+
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td>@item.ProductId</td>
+                            <td>@item.Name</td>
+                            <td>@item.Price</td>
+                            <td>
+                                <a class="btn btn-sm btn-outline-primary me-2"
+                                   asp-action="Details"
+                                   asp-route-id="@item.ProductId">
+                                    Details
+                                </a>
+
+                                <a class="btn btn-sm btn-success"
+                                   asp-controller="Cart"
+                                   asp-action="AddToCart"
+                                   asp-route-id="@item.ProductId">
+                                    Add to Cart
+                                </a>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
