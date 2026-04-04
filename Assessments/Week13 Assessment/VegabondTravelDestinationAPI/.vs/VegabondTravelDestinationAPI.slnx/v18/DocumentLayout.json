@@ -1,0 +1,464 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\himan\\source\\repos\\VegabondTravelDestinationAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35557523-9B52-4B38-A1D9-62E766AF33DD}|VegabondTravelDestinationAPI\\VegabondTravelDestinationAPI.csproj|c:\\users\\himan\\source\\repos\\vegabondtraveldestinationapi\\vegabondtraveldestinationapi\\controllers\\destinationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35557523-9B52-4B38-A1D9-62E766AF33DD}|VegabondTravelDestinationAPI\\VegabondTravelDestinationAPI.csproj|solutionrelative:vegabondtraveldestinationapi\\controllers\\destinationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35557523-9B52-4B38-A1D9-62E766AF33DD}|VegabondTravelDestinationAPI\\VegabondTravelDestinationAPI.csproj|c:\\users\\himan\\source\\repos\\vegabondtraveldestinationapi\\vegabondtraveldestinationapi\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35557523-9B52-4B38-A1D9-62E766AF33DD}|VegabondTravelDestinationAPI\\VegabondTravelDestinationAPI.csproj|solutionrelative:vegabondtraveldestinationapi\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35557523-9B52-4B38-A1D9-62E766AF33DD}|VegabondTravelDestinationAPI\\VegabondTravelDestinationAPI.csproj|c:\\users\\himan\\source\\repos\\vegabondtraveldestinationapi\\vegabondtraveldestinationapi\\exceptions\\destinationnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35557523-9B52-4B38-A1D9-62E766AF33DD}|VegabondTravelDestinationAPI\\VegabondTravelDestinationAPI.csproj|solutionrelative:vegabondtraveldestinationapi\\exceptions\\destinationnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35557523-9B52-4B38-A1D9-62E766AF33DD}|VegabondTravelDestinationAPI\\VegabondTravelDestinationAPI.csproj|c:\\users\\himan\\source\\repos\\vegabondtraveldestinationapi\\vegabondtraveldestinationapi\\data\\vegabondtraveldestinationapicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35557523-9B52-4B38-A1D9-62E766AF33DD}|VegabondTravelDestinationAPI\\VegabondTravelDestinationAPI.csproj|solutionrelative:vegabondtraveldestinationapi\\data\\vegabondtraveldestinationapicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35557523-9B52-4B38-A1D9-62E766AF33DD}|VegabondTravelDestinationAPI\\VegabondTravelDestinationAPI.csproj|c:\\users\\himan\\source\\repos\\vegabondtraveldestinationapi\\vegabondtraveldestinationapi\\repostries\\destinationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35557523-9B52-4B38-A1D9-62E766AF33DD}|VegabondTravelDestinationAPI\\VegabondTravelDestinationAPI.csproj|solutionrelative:vegabondtraveldestinationapi\\repostries\\destinationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\himan\\source\\repos\\VegabondTravelDestinationAPI\\VegabondTravelDestinationAPI\\Migrations\\20260404063641_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:VegabondTravelDestinationAPI\\Migrations\\20260404063641_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BD4D2B6-8DF6-46AF-9633-C32062720713}|UI.web\\UI.web.csproj|c:\\users\\himan\\source\\repos\\vegabondtraveldestinationapi\\ui.web\\views\\destination\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2BD4D2B6-8DF6-46AF-9633-C32062720713}|UI.web\\UI.web.csproj|solutionrelative:ui.web\\views\\destination\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BD4D2B6-8DF6-46AF-9633-C32062720713}|UI.web\\UI.web.csproj|c:\\users\\himan\\source\\repos\\vegabondtraveldestinationapi\\ui.web\\controllers\\destinationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BD4D2B6-8DF6-46AF-9633-C32062720713}|UI.web\\UI.web.csproj|solutionrelative:ui.web\\controllers\\destinationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BD4D2B6-8DF6-46AF-9633-C32062720713}|UI.web\\UI.web.csproj|c:\\users\\himan\\source\\repos\\vegabondtraveldestinationapi\\ui.web\\services\\destinationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BD4D2B6-8DF6-46AF-9633-C32062720713}|UI.web\\UI.web.csproj|solutionrelative:ui.web\\services\\destinationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BD4D2B6-8DF6-46AF-9633-C32062720713}|UI.web\\UI.web.csproj|c:\\users\\himan\\source\\repos\\vegabondtraveldestinationapi\\ui.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BD4D2B6-8DF6-46AF-9633-C32062720713}|UI.web\\UI.web.csproj|solutionrelative:ui.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35557523-9B52-4B38-A1D9-62E766AF33DD}|VegabondTravelDestinationAPI\\VegabondTravelDestinationAPI.csproj|c:\\users\\himan\\source\\repos\\vegabondtraveldestinationapi\\vegabondtraveldestinationapi\\vegabondtraveldestinationapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{35557523-9B52-4B38-A1D9-62E766AF33DD}|VegabondTravelDestinationAPI\\VegabondTravelDestinationAPI.csproj|solutionrelative:vegabondtraveldestinationapi\\vegabondtraveldestinationapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BD4D2B6-8DF6-46AF-9633-C32062720713}|UI.web\\UI.web.csproj|c:\\users\\himan\\source\\repos\\vegabondtraveldestinationapi\\ui.web\\ui.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2BD4D2B6-8DF6-46AF-9633-C32062720713}|UI.web\\UI.web.csproj|solutionrelative:ui.web\\ui.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BD4D2B6-8DF6-46AF-9633-C32062720713}|UI.web\\UI.web.csproj|c:\\users\\himan\\source\\repos\\vegabondtraveldestinationapi\\ui.web\\services\\idestinationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BD4D2B6-8DF6-46AF-9633-C32062720713}|UI.web\\UI.web.csproj|solutionrelative:ui.web\\services\\idestinationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BD4D2B6-8DF6-46AF-9633-C32062720713}|UI.web\\UI.web.csproj|c:\\users\\himan\\source\\repos\\vegabondtraveldestinationapi\\ui.web\\models\\destination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BD4D2B6-8DF6-46AF-9633-C32062720713}|UI.web\\UI.web.csproj|solutionrelative:ui.web\\models\\destination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35557523-9B52-4B38-A1D9-62E766AF33DD}|VegabondTravelDestinationAPI\\VegabondTravelDestinationAPI.csproj|c:\\users\\himan\\source\\repos\\vegabondtraveldestinationapi\\vegabondtraveldestinationapi\\models\\destination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35557523-9B52-4B38-A1D9-62E766AF33DD}|VegabondTravelDestinationAPI\\VegabondTravelDestinationAPI.csproj|solutionrelative:vegabondtraveldestinationapi\\models\\destination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35557523-9B52-4B38-A1D9-62E766AF33DD}|VegabondTravelDestinationAPI\\VegabondTravelDestinationAPI.csproj|c:\\users\\himan\\source\\repos\\vegabondtraveldestinationapi\\vegabondtraveldestinationapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35557523-9B52-4B38-A1D9-62E766AF33DD}|VegabondTravelDestinationAPI\\VegabondTravelDestinationAPI.csproj|solutionrelative:vegabondtraveldestinationapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35557523-9B52-4B38-A1D9-62E766AF33DD}|VegabondTravelDestinationAPI\\VegabondTravelDestinationAPI.csproj|c:\\users\\himan\\source\\repos\\vegabondtraveldestinationapi\\vegabondtraveldestinationapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{35557523-9B52-4B38-A1D9-62E766AF33DD}|VegabondTravelDestinationAPI\\VegabondTravelDestinationAPI.csproj|solutionrelative:vegabondtraveldestinationapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\himan\\source\\repos\\VegabondTravelDestinationAPI\\VegabondTravelDestinationAPI\\Migrations\\20260404051634_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:VegabondTravelDestinationAPI\\Migrations\\20260404051634_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35557523-9B52-4B38-A1D9-62E766AF33DD}|VegabondTravelDestinationAPI\\VegabondTravelDestinationAPI.csproj|c:\\users\\himan\\source\\repos\\vegabondtraveldestinationapi\\vegabondtraveldestinationapi\\repostries\\idestinationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35557523-9B52-4B38-A1D9-62E766AF33DD}|VegabondTravelDestinationAPI\\VegabondTravelDestinationAPI.csproj|solutionrelative:vegabondtraveldestinationapi\\repostries\\idestinationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35557523-9B52-4B38-A1D9-62E766AF33DD}|VegabondTravelDestinationAPI\\VegabondTravelDestinationAPI.csproj|c:\\users\\himan\\source\\repos\\vegabondtraveldestinationapi\\vegabondtraveldestinationapi\\vegabondtraveldestinationapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{35557523-9B52-4B38-A1D9-62E766AF33DD}|VegabondTravelDestinationAPI\\VegabondTravelDestinationAPI.csproj|solutionrelative:vegabondtraveldestinationapi\\vegabondtraveldestinationapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 18,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{797f5b3d-853a-4854-a9f2-c488bac2661b}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VegabondTravelDestinationAPIContext.cs",
+              "DocumentMoniker": "C:\\Users\\himan\\source\\repos\\VegabondTravelDestinationAPI\\VegabondTravelDestinationAPI\\Data\\VegabondTravelDestinationAPIContext.cs",
+              "RelativeDocumentMoniker": "VegabondTravelDestinationAPI\\Data\\VegabondTravelDestinationAPIContext.cs",
+              "ToolTip": "C:\\Users\\himan\\source\\repos\\VegabondTravelDestinationAPI\\VegabondTravelDestinationAPI\\Data\\VegabondTravelDestinationAPIContext.cs*",
+              "RelativeToolTip": "VegabondTravelDestinationAPI\\Data\\VegabondTravelDestinationAPIContext.cs*",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T04:26:31.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DestinationsController.cs",
+              "DocumentMoniker": "C:\\Users\\himan\\source\\repos\\VegabondTravelDestinationAPI\\VegabondTravelDestinationAPI\\Controllers\\DestinationsController.cs",
+              "RelativeDocumentMoniker": "VegabondTravelDestinationAPI\\Controllers\\DestinationsController.cs",
+              "ToolTip": "C:\\Users\\himan\\source\\repos\\VegabondTravelDestinationAPI\\VegabondTravelDestinationAPI\\Controllers\\DestinationsController.cs*",
+              "RelativeToolTip": "VegabondTravelDestinationAPI\\Controllers\\DestinationsController.cs*",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAkwFcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T04:26:21.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DestinationNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\himan\\source\\repos\\VegabondTravelDestinationAPI\\VegabondTravelDestinationAPI\\Exceptions\\DestinationNotFoundException.cs",
+              "RelativeDocumentMoniker": "VegabondTravelDestinationAPI\\Exceptions\\DestinationNotFoundException.cs",
+              "ToolTip": "C:\\Users\\himan\\source\\repos\\VegabondTravelDestinationAPI\\VegabondTravelDestinationAPI\\Exceptions\\DestinationNotFoundException.cs",
+              "RelativeToolTip": "VegabondTravelDestinationAPI\\Exceptions\\DestinationNotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T06:02:47.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\himan\\source\\repos\\VegabondTravelDestinationAPI\\VegabondTravelDestinationAPI\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "VegabondTravelDestinationAPI\\Middleware\\ExceptionMiddleware.cs",
+              "ToolTip": "C:\\Users\\himan\\source\\repos\\VegabondTravelDestinationAPI\\VegabondTravelDestinationAPI\\Middleware\\ExceptionMiddleware.cs*",
+              "RelativeToolTip": "VegabondTravelDestinationAPI\\Middleware\\ExceptionMiddleware.cs*",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwC0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T05:48:59.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DestinationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\himan\\source\\repos\\VegabondTravelDestinationAPI\\VegabondTravelDestinationAPI\\Repostries\\DestinationRepository.cs",
+              "RelativeDocumentMoniker": "VegabondTravelDestinationAPI\\Repostries\\DestinationRepository.cs",
+              "ToolTip": "C:\\Users\\himan\\source\\repos\\VegabondTravelDestinationAPI\\VegabondTravelDestinationAPI\\Repostries\\DestinationRepository.cs",
+              "RelativeToolTip": "VegabondTravelDestinationAPI\\Repostries\\DestinationRepository.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T04:30:54.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20260404063641_init.cs",
+              "DocumentMoniker": "C:\\Users\\himan\\source\\repos\\VegabondTravelDestinationAPI\\VegabondTravelDestinationAPI\\Migrations\\20260404063641_init.cs",
+              "RelativeDocumentMoniker": "VegabondTravelDestinationAPI\\Migrations\\20260404063641_init.cs",
+              "ToolTip": "C:\\Users\\himan\\source\\repos\\VegabondTravelDestinationAPI\\VegabondTravelDestinationAPI\\Migrations\\20260404063641_init.cs",
+              "RelativeToolTip": "VegabondTravelDestinationAPI\\Migrations\\20260404063641_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T06:36:41.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\himan\\source\\repos\\VegabondTravelDestinationAPI\\UI.web\\Program.cs",
+              "RelativeDocumentMoniker": "UI.web\\Program.cs",
+              "ToolTip": "C:\\Users\\himan\\source\\repos\\VegabondTravelDestinationAPI\\UI.web\\Program.cs",
+              "RelativeToolTip": "UI.web\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAuwA4AAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T06:24:53.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\himan\\source\\repos\\VegabondTravelDestinationAPI\\UI.web\\Views\\Destination\\Index.cshtml",
+              "RelativeDocumentMoniker": "UI.web\\Views\\Destination\\Index.cshtml",
+              "ToolTip": "C:\\Users\\himan\\source\\repos\\VegabondTravelDestinationAPI\\UI.web\\Views\\Destination\\Index.cshtml",
+              "RelativeToolTip": "UI.web\\Views\\Destination\\Index.cshtml",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAAwH0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-04T06:23:33.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UI.web",
+              "DocumentMoniker": "C:\\Users\\himan\\source\\repos\\VegabondTravelDestinationAPI\\UI.web\\UI.web.csproj",
+              "RelativeDocumentMoniker": "UI.web\\UI.web.csproj",
+              "ToolTip": "C:\\Users\\himan\\source\\repos\\VegabondTravelDestinationAPI\\UI.web\\UI.web.csproj",
+              "RelativeToolTip": "UI.web\\UI.web.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-04T06:16:52.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DestinationService.cs",
+              "DocumentMoniker": "C:\\Users\\himan\\source\\repos\\VegabondTravelDestinationAPI\\UI.web\\Services\\DestinationService.cs",
+              "RelativeDocumentMoniker": "UI.web\\Services\\DestinationService.cs",
+              "ToolTip": "C:\\Users\\himan\\source\\repos\\VegabondTravelDestinationAPI\\UI.web\\Services\\DestinationService.cs",
+              "RelativeToolTip": "UI.web\\Services\\DestinationService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T06:17:46.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DestinationController.cs",
+              "DocumentMoniker": "C:\\Users\\himan\\source\\repos\\VegabondTravelDestinationAPI\\UI.web\\Controllers\\DestinationController.cs",
+              "RelativeDocumentMoniker": "UI.web\\Controllers\\DestinationController.cs",
+              "ToolTip": "C:\\Users\\himan\\source\\repos\\VegabondTravelDestinationAPI\\UI.web\\Controllers\\DestinationController.cs",
+              "RelativeToolTip": "UI.web\\Controllers\\DestinationController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T06:21:32.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Destination.cs",
+              "DocumentMoniker": "C:\\Users\\himan\\source\\repos\\VegabondTravelDestinationAPI\\UI.web\\Models\\Destination.cs",
+              "RelativeDocumentMoniker": "UI.web\\Models\\Destination.cs",
+              "ToolTip": "C:\\Users\\himan\\source\\repos\\VegabondTravelDestinationAPI\\UI.web\\Models\\Destination.cs",
+              "RelativeToolTip": "UI.web\\Models\\Destination.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T06:11:58.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IDestinationService.cs",
+              "DocumentMoniker": "C:\\Users\\himan\\source\\repos\\VegabondTravelDestinationAPI\\UI.web\\Services\\IDestinationService.cs",
+              "RelativeDocumentMoniker": "UI.web\\Services\\IDestinationService.cs",
+              "ToolTip": "C:\\Users\\himan\\source\\repos\\VegabondTravelDestinationAPI\\UI.web\\Services\\IDestinationService.cs",
+              "RelativeToolTip": "UI.web\\Services\\IDestinationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T06:17:27.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "VegabondTravelDestinationAPI",
+              "DocumentMoniker": "C:\\Users\\himan\\source\\repos\\VegabondTravelDestinationAPI\\VegabondTravelDestinationAPI\\VegabondTravelDestinationAPI.csproj",
+              "RelativeDocumentMoniker": "VegabondTravelDestinationAPI\\VegabondTravelDestinationAPI.csproj",
+              "ToolTip": "C:\\Users\\himan\\source\\repos\\VegabondTravelDestinationAPI\\VegabondTravelDestinationAPI\\VegabondTravelDestinationAPI.csproj",
+              "RelativeToolTip": "VegabondTravelDestinationAPI\\VegabondTravelDestinationAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-04T04:28:30.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\himan\\source\\repos\\VegabondTravelDestinationAPI\\VegabondTravelDestinationAPI\\Program.cs",
+              "RelativeDocumentMoniker": "VegabondTravelDestinationAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\himan\\source\\repos\\VegabondTravelDestinationAPI\\VegabondTravelDestinationAPI\\Program.cs",
+              "RelativeToolTip": "VegabondTravelDestinationAPI\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAlwCMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T05:07:30.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Destination.cs",
+              "DocumentMoniker": "C:\\Users\\himan\\source\\repos\\VegabondTravelDestinationAPI\\VegabondTravelDestinationAPI\\Models\\Destination.cs",
+              "RelativeDocumentMoniker": "VegabondTravelDestinationAPI\\Models\\Destination.cs",
+              "ToolTip": "C:\\Users\\himan\\source\\repos\\VegabondTravelDestinationAPI\\VegabondTravelDestinationAPI\\Models\\Destination.cs",
+              "RelativeToolTip": "VegabondTravelDestinationAPI\\Models\\Destination.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwA4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T04:21:08.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\himan\\source\\repos\\VegabondTravelDestinationAPI\\VegabondTravelDestinationAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "VegabondTravelDestinationAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\himan\\source\\repos\\VegabondTravelDestinationAPI\\VegabondTravelDestinationAPI\\appsettings.json",
+              "RelativeToolTip": "VegabondTravelDestinationAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-04T04:40:32.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IDestinationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\himan\\source\\repos\\VegabondTravelDestinationAPI\\VegabondTravelDestinationAPI\\Repostries\\IDestinationRepository.cs",
+              "RelativeDocumentMoniker": "VegabondTravelDestinationAPI\\Repostries\\IDestinationRepository.cs",
+              "ToolTip": "C:\\Users\\himan\\source\\repos\\VegabondTravelDestinationAPI\\VegabondTravelDestinationAPI\\Repostries\\IDestinationRepository.cs",
+              "RelativeToolTip": "VegabondTravelDestinationAPI\\Repostries\\IDestinationRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T04:30:00.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20260404051634_init.cs",
+              "DocumentMoniker": "C:\\Users\\himan\\source\\repos\\VegabondTravelDestinationAPI\\VegabondTravelDestinationAPI\\Migrations\\20260404051634_init.cs",
+              "RelativeDocumentMoniker": "VegabondTravelDestinationAPI\\Migrations\\20260404051634_init.cs",
+              "ToolTip": "C:\\Users\\himan\\source\\repos\\VegabondTravelDestinationAPI\\VegabondTravelDestinationAPI\\Migrations\\20260404051634_init.cs",
+              "RelativeToolTip": "VegabondTravelDestinationAPI\\Migrations\\20260404051634_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T05:16:34.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "VegabondTravelDestinationAPI.http",
+              "DocumentMoniker": "C:\\Users\\himan\\source\\repos\\VegabondTravelDestinationAPI\\VegabondTravelDestinationAPI\\VegabondTravelDestinationAPI.http",
+              "RelativeDocumentMoniker": "VegabondTravelDestinationAPI\\VegabondTravelDestinationAPI.http",
+              "ToolTip": "C:\\Users\\himan\\source\\repos\\VegabondTravelDestinationAPI\\VegabondTravelDestinationAPI\\VegabondTravelDestinationAPI.http",
+              "RelativeToolTip": "VegabondTravelDestinationAPI\\VegabondTravelDestinationAPI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-04-04T05:13:44.669Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 223,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 223,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="UI.web/UI.web.csproj" />
+  <Project Path="VegabondTravelDestinationAPI/VegabondTravelDestinationAPI.csproj" />
+</Solution>

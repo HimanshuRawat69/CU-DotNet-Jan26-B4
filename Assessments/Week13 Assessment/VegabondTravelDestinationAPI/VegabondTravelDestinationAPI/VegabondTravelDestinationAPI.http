@@ -1,0 +1,6 @@
+@VegabondTravelDestinationAPI_HostAddress = http://localhost:5253
+
+GET {{VegabondTravelDestinationAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

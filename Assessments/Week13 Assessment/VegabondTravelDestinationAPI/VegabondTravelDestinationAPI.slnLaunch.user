@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "VegabondTravelDestinationAPI\\VegabondTravelDestinationAPI.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "UI.web\\UI.web.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
