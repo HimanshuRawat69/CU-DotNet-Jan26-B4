@@ -1,0 +1,5 @@
+C:\Users\himan\source\repos\NorthwindCatalog\NorthwindCatalog.Services\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\himan\source\repos\NorthwindCatalog\NorthwindCatalog.Services\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\himan\source\repos\NorthwindCatalog\NorthwindCatalog.Services\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\himan\source\repos\NorthwindCatalog\NorthwindCatalog.Services\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\himan\source\repos\NorthwindCatalog\NorthwindCatalog.Services\obj\Debug\net8.0\staticwebassets.build.json

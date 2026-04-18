@@ -1,0 +1,22 @@
+﻿@using NorthwindCatalog.Services.DTOs
+@model List<CategoryDto>
+
+<h2>Categories</h2>
+
+<div class="row">
+    @foreach (var item in Model)
+    {
+        string img = $"images/{item.CategoryId}.jpeg";
+        <div class="col-md-3">
+            <div class="card">
+                <img src="@img" class="card-img-top" />
+                <div class="card-body">
+                    <h5>@item.CategoryName</h5>
+                    <a href="/Products/ByCategory/@item.CategoryId" class="btn btn-primary">
+                        View Products
+                    </a>
+                </div>
+            </div>
+        </div>
+    }
+</div>

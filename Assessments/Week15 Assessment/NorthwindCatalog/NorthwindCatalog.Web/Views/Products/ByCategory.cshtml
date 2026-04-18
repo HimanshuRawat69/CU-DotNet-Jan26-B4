@@ -1,0 +1,26 @@
+﻿@using NorthwindCatalog.Services.DTOs
+@model List<ProductDto>
+
+<h2>Products</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Price</th>
+            <th>Stock</th>
+            <th>Inventory Value</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.ProductName</td>
+                <td>@item.UnitPrice</td>
+                <td>@item.UnitsInStock</td>
+                <td>@item.InventoryValue</td>
+            </tr>
+        }
+    </tbody>
+</table>

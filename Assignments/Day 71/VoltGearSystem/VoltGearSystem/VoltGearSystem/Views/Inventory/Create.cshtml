@@ -1,0 +1,54 @@
+﻿@model VoltGearSystem.Models.Laptop
+
+@{
+    ViewData["Title"] = "New Equipment";
+}
+
+<div class="container mt-4">
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <div class="card shadow-sm">
+                <div class="card-header bg-primary text-white">
+                    <h4 class="mb-0">Add New Equipment</h4>
+                </div>
+                <div class="card-body">
+                    <form asp-action="Create" method="post">
+                        <div asp-validation-summary="ModelOnly" class="text-danger mb-3"></div>
+
+                        <div class="mb-3">
+                            <label asp-for="ModelName" class="form-label fw-bold"></label>
+                            <input asp-for="ModelName" class="form-control" placeholder="e.g. MacBook Pro M3" />
+                            <span asp-validation-for="ModelName" class="text-danger"></span>
+                        </div>
+
+                        <div class="mb-3">
+                            <label asp-for="SerialNumber" class="form-label fw-bold"></label>
+                            <input asp-for="SerialNumber" class="form-control" placeholder="e.g. SN123456789" />
+                            <span asp-validation-for="SerialNumber" class="text-danger"></span>
+                        </div>
+
+                        <div class="mb-4">
+                            <label asp-for="Price" class="form-label fw-bold"></label>
+                            <div class="input-group">
+                                <span class="input-group-text">$</span>
+                                <input asp-for="Price" type="number" step="0.01" class="form-control" placeholder="e.g. 1999.99" />
+                            </div>
+                            <span asp-validation-for="Price" class="text-danger"></span>
+                        </div>
+
+                        <div class="d-flex justify-content-between">
+                            <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+                            <button type="submit" class="btn btn-success">Save Equipment</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

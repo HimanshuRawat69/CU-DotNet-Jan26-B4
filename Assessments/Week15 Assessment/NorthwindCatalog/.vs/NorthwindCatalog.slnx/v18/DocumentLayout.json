@@ -1,0 +1,446 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\himan\\source\\repos\\NorthwindCatalog\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E0374A2-C9D4-4C87-A422-650BF21C6D42}|Northwind.Tests\\Northwind.Tests.csproj|c:\\users\\himan\\source\\repos\\northwindcatalog\\northwind.tests\\producttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E0374A2-C9D4-4C87-A422-650BF21C6D42}|Northwind.Tests\\Northwind.Tests.csproj|solutionrelative:northwind.tests\\producttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E737B6-E1DD-7255-7D30-EA1940BA4ADD}|NorthwindCatalog.Services\\NorthwindCatalog.Services.csproj|c:\\users\\himan\\source\\repos\\northwindcatalog\\northwindcatalog.services\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0E737B6-E1DD-7255-7D30-EA1940BA4ADD}|NorthwindCatalog.Services\\NorthwindCatalog.Services.csproj|solutionrelative:northwindcatalog.services\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E737B6-E1DD-7255-7D30-EA1940BA4ADD}|NorthwindCatalog.Services\\NorthwindCatalog.Services.csproj|c:\\users\\himan\\source\\repos\\northwindcatalog\\northwindcatalog.services\\dtos\\categorysummarydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0E737B6-E1DD-7255-7D30-EA1940BA4ADD}|NorthwindCatalog.Services\\NorthwindCatalog.Services.csproj|solutionrelative:northwindcatalog.services\\dtos\\categorysummarydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E737B6-E1DD-7255-7D30-EA1940BA4ADD}|NorthwindCatalog.Services\\NorthwindCatalog.Services.csproj|c:\\users\\himan\\source\\repos\\northwindcatalog\\northwindcatalog.services\\controllers\\productsapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0E737B6-E1DD-7255-7D30-EA1940BA4ADD}|NorthwindCatalog.Services\\NorthwindCatalog.Services.csproj|solutionrelative:northwindcatalog.services\\controllers\\productsapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97465BFA-4257-426A-B0DF-DB5C73B48A43}|NorthwindCatalog.Web\\NorthwindCatalog.Web.csproj|c:\\users\\himan\\source\\repos\\northwindcatalog\\northwindcatalog.web\\views\\products\\bycategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{97465BFA-4257-426A-B0DF-DB5C73B48A43}|NorthwindCatalog.Web\\NorthwindCatalog.Web.csproj|solutionrelative:northwindcatalog.web\\views\\products\\bycategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E0374A2-C9D4-4C87-A422-650BF21C6D42}|Northwind.Tests\\Northwind.Tests.csproj|c:\\users\\himan\\source\\repos\\northwindcatalog\\northwind.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E0374A2-C9D4-4C87-A422-650BF21C6D42}|Northwind.Tests\\Northwind.Tests.csproj|solutionrelative:northwind.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E737B6-E1DD-7255-7D30-EA1940BA4ADD}|NorthwindCatalog.Services\\NorthwindCatalog.Services.csproj|c:\\users\\himan\\source\\repos\\northwindcatalog\\northwindcatalog.services\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0E737B6-E1DD-7255-7D30-EA1940BA4ADD}|NorthwindCatalog.Services\\NorthwindCatalog.Services.csproj|solutionrelative:northwindcatalog.services\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E737B6-E1DD-7255-7D30-EA1940BA4ADD}|NorthwindCatalog.Services\\NorthwindCatalog.Services.csproj|c:\\users\\himan\\source\\repos\\northwindcatalog\\northwindcatalog.services\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0E737B6-E1DD-7255-7D30-EA1940BA4ADD}|NorthwindCatalog.Services\\NorthwindCatalog.Services.csproj|solutionrelative:northwindcatalog.services\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97465BFA-4257-426A-B0DF-DB5C73B48A43}|NorthwindCatalog.Web\\NorthwindCatalog.Web.csproj|c:\\users\\himan\\source\\repos\\northwindcatalog\\northwindcatalog.web\\controllers\\summarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97465BFA-4257-426A-B0DF-DB5C73B48A43}|NorthwindCatalog.Web\\NorthwindCatalog.Web.csproj|solutionrelative:northwindcatalog.web\\controllers\\summarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E737B6-E1DD-7255-7D30-EA1940BA4ADD}|NorthwindCatalog.Services\\NorthwindCatalog.Services.csproj|c:\\users\\himan\\source\\repos\\northwindcatalog\\northwindcatalog.services\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0E737B6-E1DD-7255-7D30-EA1940BA4ADD}|NorthwindCatalog.Services\\NorthwindCatalog.Services.csproj|solutionrelative:northwindcatalog.services\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E737B6-E1DD-7255-7D30-EA1940BA4ADD}|NorthwindCatalog.Services\\NorthwindCatalog.Services.csproj|c:\\users\\himan\\source\\repos\\northwindcatalog\\northwindcatalog.services\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0E737B6-E1DD-7255-7D30-EA1940BA4ADD}|NorthwindCatalog.Services\\NorthwindCatalog.Services.csproj|solutionrelative:northwindcatalog.services\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E737B6-E1DD-7255-7D30-EA1940BA4ADD}|NorthwindCatalog.Services\\NorthwindCatalog.Services.csproj|c:\\users\\himan\\source\\repos\\northwindcatalog\\northwindcatalog.services\\controllers\\categoriesapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0E737B6-E1DD-7255-7D30-EA1940BA4ADD}|NorthwindCatalog.Services\\NorthwindCatalog.Services.csproj|solutionrelative:northwindcatalog.services\\controllers\\categoriesapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97465BFA-4257-426A-B0DF-DB5C73B48A43}|NorthwindCatalog.Web\\NorthwindCatalog.Web.csproj|c:\\users\\himan\\source\\repos\\northwindcatalog\\northwindcatalog.web\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{97465BFA-4257-426A-B0DF-DB5C73B48A43}|NorthwindCatalog.Web\\NorthwindCatalog.Web.csproj|solutionrelative:northwindcatalog.web\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97465BFA-4257-426A-B0DF-DB5C73B48A43}|NorthwindCatalog.Web\\NorthwindCatalog.Web.csproj|c:\\users\\himan\\source\\repos\\northwindcatalog\\northwindcatalog.web\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97465BFA-4257-426A-B0DF-DB5C73B48A43}|NorthwindCatalog.Web\\NorthwindCatalog.Web.csproj|solutionrelative:northwindcatalog.web\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97465BFA-4257-426A-B0DF-DB5C73B48A43}|NorthwindCatalog.Web\\NorthwindCatalog.Web.csproj|c:\\users\\himan\\source\\repos\\northwindcatalog\\northwindcatalog.web\\views\\summary\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{97465BFA-4257-426A-B0DF-DB5C73B48A43}|NorthwindCatalog.Web\\NorthwindCatalog.Web.csproj|solutionrelative:northwindcatalog.web\\views\\summary\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97465BFA-4257-426A-B0DF-DB5C73B48A43}|NorthwindCatalog.Web\\NorthwindCatalog.Web.csproj|c:\\users\\himan\\source\\repos\\northwindcatalog\\northwindcatalog.web\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97465BFA-4257-426A-B0DF-DB5C73B48A43}|NorthwindCatalog.Web\\NorthwindCatalog.Web.csproj|solutionrelative:northwindcatalog.web\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E737B6-E1DD-7255-7D30-EA1940BA4ADD}|NorthwindCatalog.Services\\NorthwindCatalog.Services.csproj|c:\\users\\himan\\source\\repos\\northwindcatalog\\northwindcatalog.services\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0E737B6-E1DD-7255-7D30-EA1940BA4ADD}|NorthwindCatalog.Services\\NorthwindCatalog.Services.csproj|solutionrelative:northwindcatalog.services\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97465BFA-4257-426A-B0DF-DB5C73B48A43}|NorthwindCatalog.Web\\NorthwindCatalog.Web.csproj|c:\\users\\himan\\source\\repos\\northwindcatalog\\northwindcatalog.web\\northwindcatalog.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{97465BFA-4257-426A-B0DF-DB5C73B48A43}|NorthwindCatalog.Web\\NorthwindCatalog.Web.csproj|solutionrelative:northwindcatalog.web\\northwindcatalog.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97465BFA-4257-426A-B0DF-DB5C73B48A43}|NorthwindCatalog.Web\\NorthwindCatalog.Web.csproj|c:\\users\\himan\\source\\repos\\northwindcatalog\\northwindcatalog.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97465BFA-4257-426A-B0DF-DB5C73B48A43}|NorthwindCatalog.Web\\NorthwindCatalog.Web.csproj|solutionrelative:northwindcatalog.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 103,
+          "SelectedChildIndex": 20,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\himan\\source\\repos\\NorthwindCatalog\\Northwind.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "Northwind.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\himan\\source\\repos\\NorthwindCatalog\\Northwind.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "Northwind.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T06:18:49.671Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{797f5b3d-853a-4854-a9f2-c488bac2661b}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\himan\\source\\repos\\NorthwindCatalog\\NorthwindCatalog.Services\\DTOs\\ProductDto.cs",
+              "RelativeDocumentMoniker": "NorthwindCatalog.Services\\DTOs\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\himan\\source\\repos\\NorthwindCatalog\\NorthwindCatalog.Services\\DTOs\\ProductDto.cs",
+              "RelativeToolTip": "NorthwindCatalog.Services\\DTOs\\ProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T06:28:16.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategorySummaryDto.cs",
+              "DocumentMoniker": "C:\\Users\\himan\\source\\repos\\NorthwindCatalog\\NorthwindCatalog.Services\\DTOs\\CategorySummaryDto.cs",
+              "RelativeDocumentMoniker": "NorthwindCatalog.Services\\DTOs\\CategorySummaryDto.cs",
+              "ToolTip": "C:\\Users\\himan\\source\\repos\\NorthwindCatalog\\NorthwindCatalog.Services\\DTOs\\CategorySummaryDto.cs",
+              "RelativeToolTip": "NorthwindCatalog.Services\\DTOs\\CategorySummaryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T06:28:13.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductTests.cs",
+              "DocumentMoniker": "C:\\Users\\himan\\source\\repos\\NorthwindCatalog\\Northwind.Tests\\ProductTests.cs",
+              "RelativeDocumentMoniker": "Northwind.Tests\\ProductTests.cs",
+              "ToolTip": "C:\\Users\\himan\\source\\repos\\NorthwindCatalog\\Northwind.Tests\\ProductTests.cs*",
+              "RelativeToolTip": "Northwind.Tests\\ProductTests.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T06:24:34.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\himan\\source\\repos\\NorthwindCatalog\\NorthwindCatalog.Services\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "NorthwindCatalog.Services\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\himan\\source\\repos\\NorthwindCatalog\\NorthwindCatalog.Services\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "NorthwindCatalog.Services\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAkwBsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T06:00:26.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\himan\\source\\repos\\NorthwindCatalog\\NorthwindCatalog.Services\\Repositories\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "NorthwindCatalog.Services\\Repositories\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\himan\\source\\repos\\NorthwindCatalog\\NorthwindCatalog.Services\\Repositories\\ICategoryRepository.cs",
+              "RelativeToolTip": "NorthwindCatalog.Services\\Repositories\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T06:08:50.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ByCategory.cshtml",
+              "DocumentMoniker": "C:\\Users\\himan\\source\\repos\\NorthwindCatalog\\NorthwindCatalog.Web\\Views\\Products\\ByCategory.cshtml",
+              "RelativeDocumentMoniker": "NorthwindCatalog.Web\\Views\\Products\\ByCategory.cshtml",
+              "ToolTip": "C:\\Users\\himan\\source\\repos\\NorthwindCatalog\\NorthwindCatalog.Web\\Views\\Products\\ByCategory.cshtml",
+              "RelativeToolTip": "NorthwindCatalog.Web\\Views\\Products\\ByCategory.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-18T05:58:44.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductsApiController.cs",
+              "DocumentMoniker": "C:\\Users\\himan\\source\\repos\\NorthwindCatalog\\NorthwindCatalog.Services\\Controllers\\ProductsApiController.cs",
+              "RelativeDocumentMoniker": "NorthwindCatalog.Services\\Controllers\\ProductsApiController.cs",
+              "ToolTip": "C:\\Users\\himan\\source\\repos\\NorthwindCatalog\\NorthwindCatalog.Services\\Controllers\\ProductsApiController.cs",
+              "RelativeToolTip": "NorthwindCatalog.Services\\Controllers\\ProductsApiController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T06:07:47.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SummaryController.cs",
+              "DocumentMoniker": "C:\\Users\\himan\\source\\repos\\NorthwindCatalog\\NorthwindCatalog.Web\\Controllers\\SummaryController.cs",
+              "RelativeDocumentMoniker": "NorthwindCatalog.Web\\Controllers\\SummaryController.cs",
+              "ToolTip": "C:\\Users\\himan\\source\\repos\\NorthwindCatalog\\NorthwindCatalog.Web\\Controllers\\SummaryController.cs",
+              "RelativeToolTip": "NorthwindCatalog.Web\\Controllers\\SummaryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T05:11:15.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\himan\\source\\repos\\NorthwindCatalog\\NorthwindCatalog.Services\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "NorthwindCatalog.Services\\Repositories\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\himan\\source\\repos\\NorthwindCatalog\\NorthwindCatalog.Services\\Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "NorthwindCatalog.Services\\Repositories\\CategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T06:09:30.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\himan\\source\\repos\\NorthwindCatalog\\NorthwindCatalog.Services\\Repositories\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "NorthwindCatalog.Services\\Repositories\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\himan\\source\\repos\\NorthwindCatalog\\NorthwindCatalog.Services\\Repositories\\IProductRepository.cs",
+              "RelativeToolTip": "NorthwindCatalog.Services\\Repositories\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T06:08:42.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CategoriesApiController.cs",
+              "DocumentMoniker": "C:\\Users\\himan\\source\\repos\\NorthwindCatalog\\NorthwindCatalog.Services\\Controllers\\CategoriesApiController.cs",
+              "RelativeDocumentMoniker": "NorthwindCatalog.Services\\Controllers\\CategoriesApiController.cs",
+              "ToolTip": "C:\\Users\\himan\\source\\repos\\NorthwindCatalog\\NorthwindCatalog.Services\\Controllers\\CategoriesApiController.cs",
+              "RelativeToolTip": "NorthwindCatalog.Services\\Controllers\\CategoriesApiController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T06:07:35.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\himan\\source\\repos\\NorthwindCatalog\\NorthwindCatalog.Web\\Views\\Summary\\Index.cshtml",
+              "RelativeDocumentMoniker": "NorthwindCatalog.Web\\Views\\Summary\\Index.cshtml",
+              "ToolTip": "C:\\Users\\himan\\source\\repos\\NorthwindCatalog\\NorthwindCatalog.Web\\Views\\Summary\\Index.cshtml",
+              "RelativeToolTip": "NorthwindCatalog.Web\\Views\\Summary\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-18T05:49:51.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\himan\\source\\repos\\NorthwindCatalog\\NorthwindCatalog.Web\\Views\\Categories\\Index.cshtml",
+              "RelativeDocumentMoniker": "NorthwindCatalog.Web\\Views\\Categories\\Index.cshtml",
+              "ToolTip": "C:\\Users\\himan\\source\\repos\\NorthwindCatalog\\NorthwindCatalog.Web\\Views\\Categories\\Index.cshtml",
+              "RelativeToolTip": "NorthwindCatalog.Web\\Views\\Categories\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-18T05:21:57.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\himan\\source\\repos\\NorthwindCatalog\\NorthwindCatalog.Web\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "NorthwindCatalog.Web\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\himan\\source\\repos\\NorthwindCatalog\\NorthwindCatalog.Web\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "NorthwindCatalog.Web\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T05:09:20.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CategoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\himan\\source\\repos\\NorthwindCatalog\\NorthwindCatalog.Services\\DTOs\\CategoryDto.cs",
+              "RelativeDocumentMoniker": "NorthwindCatalog.Services\\DTOs\\CategoryDto.cs",
+              "ToolTip": "C:\\Users\\himan\\source\\repos\\NorthwindCatalog\\NorthwindCatalog.Services\\DTOs\\CategoryDto.cs",
+              "RelativeToolTip": "NorthwindCatalog.Services\\DTOs\\CategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T05:16:19.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\himan\\source\\repos\\NorthwindCatalog\\NorthwindCatalog.Web\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "NorthwindCatalog.Web\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\himan\\source\\repos\\NorthwindCatalog\\NorthwindCatalog.Web\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "NorthwindCatalog.Web\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T05:10:39.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "NorthwindCatalog.Web.csproj",
+              "DocumentMoniker": "C:\\Users\\himan\\source\\repos\\NorthwindCatalog\\NorthwindCatalog.Web\\NorthwindCatalog.Web.csproj",
+              "RelativeDocumentMoniker": "NorthwindCatalog.Web\\NorthwindCatalog.Web.csproj",
+              "ToolTip": "C:\\Users\\himan\\source\\repos\\NorthwindCatalog\\NorthwindCatalog.Web\\NorthwindCatalog.Web.csproj",
+              "RelativeToolTip": "NorthwindCatalog.Web\\NorthwindCatalog.Web.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-18T05:18:38.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\himan\\source\\repos\\NorthwindCatalog\\NorthwindCatalog.Web\\Program.cs",
+              "RelativeDocumentMoniker": "NorthwindCatalog.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\himan\\source\\repos\\NorthwindCatalog\\NorthwindCatalog.Web\\Program.cs",
+              "RelativeToolTip": "NorthwindCatalog.Web\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T05:07:10.812Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 320,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 320,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

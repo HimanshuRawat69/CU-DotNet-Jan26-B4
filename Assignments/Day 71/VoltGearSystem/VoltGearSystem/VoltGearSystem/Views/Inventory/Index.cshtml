@@ -1,0 +1,51 @@
+﻿@model IEnumerable<VoltGearSystem.Models.Laptop>
+
+@{
+    ViewData["Title"] = "Laptop Inventory";
+}
+
+<div class="container mt-4">
+    <div class="d-flex justify-content-between align-items-center mb-3">
+        <h2>Laptop Inventory</h2>
+        <a asp-action="Create" class="btn btn-primary">Add New Equipment</a>
+    </div>
+
+    @if (TempData["SuccessMessage"] != null)
+    {
+        <div class="alert alert-success alert-dismissible fade show" role="alert">
+            @TempData["SuccessMessage"]
+            <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+        </div>
+    }
+
+    <div class="table-responsive">
+        <table class="table table-striped table-hover table-bordered align-middle">
+            <thead class="table-dark">
+                <tr>
+                    <th>Model Name</th>
+                    <th>Serial Number</th>
+                    <th>Price</th>
+                </tr>
+            </thead>
+            <tbody>
+                @if (Model != null && Model.Any())
+                {
+                    foreach (var item in Model)
+                    {
+                        <tr>
+                            <td>@item.ModelName</td>
+                            <td>@item.SerialNumber</td>
+                            <td>@item.Price.ToString("C")</td>
+                        </tr>
+                    }
+                }
+                else
+                {
+                    <tr>
+                        <td colspan="3" class="text-center text-muted">No inventory found. Click "Add New Equipment" to add a laptop.</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
