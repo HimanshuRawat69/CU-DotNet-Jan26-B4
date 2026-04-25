@@ -1,0 +1,325 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vr313\\Desktop\\New folder (12)\\CourseAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{83F5F555-5CD8-3F31-E7EE-33395BC44F7A}|CourseAPI\\CourseAPI.csproj|c:\\users\\vr313\\desktop\\new folder (12)\\courseapi\\courseapi\\services\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83F5F555-5CD8-3F31-E7EE-33395BC44F7A}|CourseAPI\\CourseAPI.csproj|solutionrelative:courseapi\\services\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83F5F555-5CD8-3F31-E7EE-33395BC44F7A}|CourseAPI\\CourseAPI.csproj|c:\\users\\vr313\\desktop\\new folder (12)\\courseapi\\courseapi\\repositories\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83F5F555-5CD8-3F31-E7EE-33395BC44F7A}|CourseAPI\\CourseAPI.csproj|solutionrelative:courseapi\\repositories\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83F5F555-5CD8-3F31-E7EE-33395BC44F7A}|CourseAPI\\CourseAPI.csproj|c:\\users\\vr313\\desktop\\new folder (12)\\courseapi\\courseapi\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83F5F555-5CD8-3F31-E7EE-33395BC44F7A}|CourseAPI\\CourseAPI.csproj|solutionrelative:courseapi\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83F5F555-5CD8-3F31-E7EE-33395BC44F7A}|CourseAPI\\CourseAPI.csproj|c:\\users\\vr313\\desktop\\new folder (12)\\courseapi\\courseapi\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83F5F555-5CD8-3F31-E7EE-33395BC44F7A}|CourseAPI\\CourseAPI.csproj|solutionrelative:courseapi\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83F5F555-5CD8-3F31-E7EE-33395BC44F7A}|CourseAPI\\CourseAPI.csproj|c:\\users\\vr313\\desktop\\new folder (12)\\courseapi\\courseapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83F5F555-5CD8-3F31-E7EE-33395BC44F7A}|CourseAPI\\CourseAPI.csproj|solutionrelative:courseapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83F5F555-5CD8-3F31-E7EE-33395BC44F7A}|CourseAPI\\CourseAPI.csproj|c:\\users\\vr313\\desktop\\new folder (12)\\courseapi\\courseapi\\validators\\createcoursedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83F5F555-5CD8-3F31-E7EE-33395BC44F7A}|CourseAPI\\CourseAPI.csproj|solutionrelative:courseapi\\validators\\createcoursedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83F5F555-5CD8-3F31-E7EE-33395BC44F7A}|CourseAPI\\CourseAPI.csproj|c:\\users\\vr313\\desktop\\new folder (12)\\courseapi\\courseapi\\dtos\\courseresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83F5F555-5CD8-3F31-E7EE-33395BC44F7A}|CourseAPI\\CourseAPI.csproj|solutionrelative:courseapi\\dtos\\courseresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83F5F555-5CD8-3F31-E7EE-33395BC44F7A}|CourseAPI\\CourseAPI.csproj|c:\\users\\vr313\\desktop\\new folder (12)\\courseapi\\courseapi\\config\\fluentapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83F5F555-5CD8-3F31-E7EE-33395BC44F7A}|CourseAPI\\CourseAPI.csproj|solutionrelative:courseapi\\config\\fluentapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83F5F555-5CD8-3F31-E7EE-33395BC44F7A}|CourseAPI\\CourseAPI.csproj|c:\\users\\vr313\\desktop\\new folder (12)\\courseapi\\courseapi\\common\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83F5F555-5CD8-3F31-E7EE-33395BC44F7A}|CourseAPI\\CourseAPI.csproj|solutionrelative:courseapi\\common\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83F5F555-5CD8-3F31-E7EE-33395BC44F7A}|CourseAPI\\CourseAPI.csproj|c:\\users\\vr313\\desktop\\new folder (12)\\courseapi\\courseapi\\validators\\updatecoursectovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83F5F555-5CD8-3F31-E7EE-33395BC44F7A}|CourseAPI\\CourseAPI.csproj|solutionrelative:courseapi\\validators\\updatecoursectovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83F5F555-5CD8-3F31-E7EE-33395BC44F7A}|CourseAPI\\CourseAPI.csproj|c:\\users\\vr313\\desktop\\new folder (12)\\courseapi\\courseapi\\services\\icourseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83F5F555-5CD8-3F31-E7EE-33395BC44F7A}|CourseAPI\\CourseAPI.csproj|solutionrelative:courseapi\\services\\icourseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83F5F555-5CD8-3F31-E7EE-33395BC44F7A}|CourseAPI\\CourseAPI.csproj|c:\\users\\vr313\\desktop\\new folder (12)\\courseapi\\courseapi\\dtos\\updatecoursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83F5F555-5CD8-3F31-E7EE-33395BC44F7A}|CourseAPI\\CourseAPI.csproj|solutionrelative:courseapi\\dtos\\updatecoursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83F5F555-5CD8-3F31-E7EE-33395BC44F7A}|CourseAPI\\CourseAPI.csproj|c:\\users\\vr313\\desktop\\new folder (12)\\courseapi\\courseapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{83F5F555-5CD8-3F31-E7EE-33395BC44F7A}|CourseAPI\\CourseAPI.csproj|solutionrelative:courseapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83F5F555-5CD8-3F31-E7EE-33395BC44F7A}|CourseAPI\\CourseAPI.csproj|c:\\users\\vr313\\desktop\\new folder (12)\\courseapi\\courseapi\\data\\courseapidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83F5F555-5CD8-3F31-E7EE-33395BC44F7A}|CourseAPI\\CourseAPI.csproj|solutionrelative:courseapi\\data\\courseapidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83F5F555-5CD8-3F31-E7EE-33395BC44F7A}|CourseAPI\\CourseAPI.csproj|c:\\users\\vr313\\desktop\\new folder (12)\\courseapi\\courseapi\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83F5F555-5CD8-3F31-E7EE-33395BC44F7A}|CourseAPI\\CourseAPI.csproj|solutionrelative:courseapi\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83F5F555-5CD8-3F31-E7EE-33395BC44F7A}|CourseAPI\\CourseAPI.csproj|c:\\users\\vr313\\desktop\\new folder (12)\\courseapi\\courseapi\\repositories\\icourserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83F5F555-5CD8-3F31-E7EE-33395BC44F7A}|CourseAPI\\CourseAPI.csproj|solutionrelative:courseapi\\repositories\\icourserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83F5F555-5CD8-3F31-E7EE-33395BC44F7A}|CourseAPI\\CourseAPI.csproj|c:\\users\\vr313\\desktop\\new folder (12)\\courseapi\\courseapi\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83F5F555-5CD8-3F31-E7EE-33395BC44F7A}|CourseAPI\\CourseAPI.csproj|solutionrelative:courseapi\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83F5F555-5CD8-3F31-E7EE-33395BC44F7A}|CourseAPI\\CourseAPI.csproj|c:\\users\\vr313\\desktop\\new folder (12)\\courseapi\\courseapi\\migrations\\20260424095205_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83F5F555-5CD8-3F31-E7EE-33395BC44F7A}|CourseAPI\\CourseAPI.csproj|solutionrelative:courseapi\\migrations\\20260424095205_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CourseService.cs",
+              "DocumentMoniker": "C:\\Users\\vr313\\Desktop\\New folder (12)\\CourseAPI\\CourseAPI\\Services\\CourseService.cs",
+              "RelativeDocumentMoniker": "CourseAPI\\Services\\CourseService.cs",
+              "ToolTip": "C:\\Users\\vr313\\Desktop\\New folder (12)\\CourseAPI\\CourseAPI\\Services\\CourseService.cs",
+              "RelativeToolTip": "CourseAPI\\Services\\CourseService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAiwCwAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T09:12:24.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\vr313\\Desktop\\New folder (12)\\CourseAPI\\CourseAPI\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "CourseAPI\\Middleware\\ExceptionMiddleware.cs",
+              "ToolTip": "C:\\Users\\vr313\\Desktop\\New folder (12)\\CourseAPI\\CourseAPI\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "CourseAPI\\Middleware\\ExceptionMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T09:13:41.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CoursesController.cs",
+              "DocumentMoniker": "C:\\Users\\vr313\\Desktop\\New folder (12)\\CourseAPI\\CourseAPI\\Controllers\\CoursesController.cs",
+              "RelativeDocumentMoniker": "CourseAPI\\Controllers\\CoursesController.cs",
+              "ToolTip": "C:\\Users\\vr313\\Desktop\\New folder (12)\\CourseAPI\\CourseAPI\\Controllers\\CoursesController.cs",
+              "RelativeToolTip": "CourseAPI\\Controllers\\CoursesController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA1wBwAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T07:01:03.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CourseResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\vr313\\Desktop\\New folder (12)\\CourseAPI\\CourseAPI\\DTOs\\CourseResponseDto.cs",
+              "RelativeDocumentMoniker": "CourseAPI\\DTOs\\CourseResponseDto.cs",
+              "ToolTip": "C:\\Users\\vr313\\Desktop\\New folder (12)\\CourseAPI\\CourseAPI\\DTOs\\CourseResponseDto.cs",
+              "RelativeToolTip": "CourseAPI\\DTOs\\CourseResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T07:07:47.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CourseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\vr313\\Desktop\\New folder (12)\\CourseAPI\\CourseAPI\\Repositories\\CourseRepository.cs",
+              "RelativeDocumentMoniker": "CourseAPI\\Repositories\\CourseRepository.cs",
+              "ToolTip": "C:\\Users\\vr313\\Desktop\\New folder (12)\\CourseAPI\\CourseAPI\\Repositories\\CourseRepository.cs",
+              "RelativeToolTip": "CourseAPI\\Repositories\\CourseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T08:24:02.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateCourseDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\vr313\\Desktop\\New folder (12)\\CourseAPI\\CourseAPI\\Validators\\CreateCourseDtoValidator.cs",
+              "RelativeDocumentMoniker": "CourseAPI\\Validators\\CreateCourseDtoValidator.cs",
+              "ToolTip": "C:\\Users\\vr313\\Desktop\\New folder (12)\\CourseAPI\\CourseAPI\\Validators\\CreateCourseDtoValidator.cs",
+              "RelativeToolTip": "CourseAPI\\Validators\\CreateCourseDtoValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T08:25:24.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vr313\\Desktop\\New folder (12)\\CourseAPI\\CourseAPI\\Program.cs",
+              "RelativeDocumentMoniker": "CourseAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\vr313\\Desktop\\New folder (12)\\CourseAPI\\CourseAPI\\Program.cs",
+              "RelativeToolTip": "CourseAPI\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T09:23:12.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FluentApiConfig.cs",
+              "DocumentMoniker": "C:\\Users\\vr313\\Desktop\\New folder (12)\\CourseAPI\\CourseAPI\\Config\\FluentApiConfig.cs",
+              "RelativeDocumentMoniker": "CourseAPI\\Config\\FluentApiConfig.cs",
+              "ToolTip": "C:\\Users\\vr313\\Desktop\\New folder (12)\\CourseAPI\\CourseAPI\\Config\\FluentApiConfig.cs",
+              "RelativeToolTip": "CourseAPI\\Config\\FluentApiConfig.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T07:09:27.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ICourseService.cs",
+              "DocumentMoniker": "C:\\Users\\vr313\\Desktop\\New folder (12)\\CourseAPI\\CourseAPI\\Services\\ICourseService.cs",
+              "RelativeDocumentMoniker": "CourseAPI\\Services\\ICourseService.cs",
+              "ToolTip": "C:\\Users\\vr313\\Desktop\\New folder (12)\\CourseAPI\\CourseAPI\\Services\\ICourseService.cs",
+              "RelativeToolTip": "CourseAPI\\Services\\ICourseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T08:31:01.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "C:\\Users\\vr313\\Desktop\\New folder (12)\\CourseAPI\\CourseAPI\\Common\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "CourseAPI\\Common\\ApiResponse.cs",
+              "ToolTip": "C:\\Users\\vr313\\Desktop\\New folder (12)\\CourseAPI\\CourseAPI\\Common\\ApiResponse.cs",
+              "RelativeToolTip": "CourseAPI\\Common\\ApiResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T09:06:32.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UpdateCourseDto.cs",
+              "DocumentMoniker": "C:\\Users\\vr313\\Desktop\\New folder (12)\\CourseAPI\\CourseAPI\\DTOs\\UpdateCourseDto.cs",
+              "RelativeDocumentMoniker": "CourseAPI\\DTOs\\UpdateCourseDto.cs",
+              "ToolTip": "C:\\Users\\vr313\\Desktop\\New folder (12)\\CourseAPI\\CourseAPI\\DTOs\\UpdateCourseDto.cs",
+              "RelativeToolTip": "CourseAPI\\DTOs\\UpdateCourseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T06:32:46.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UpdateCourseCtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\vr313\\Desktop\\New folder (12)\\CourseAPI\\CourseAPI\\Validators\\UpdateCourseCtoValidator.cs",
+              "RelativeDocumentMoniker": "CourseAPI\\Validators\\UpdateCourseCtoValidator.cs",
+              "ToolTip": "C:\\Users\\vr313\\Desktop\\New folder (12)\\CourseAPI\\CourseAPI\\Validators\\UpdateCourseCtoValidator.cs",
+              "RelativeToolTip": "CourseAPI\\Validators\\UpdateCourseCtoValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T06:01:05.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\vr313\\Desktop\\New folder (12)\\CourseAPI\\CourseAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "CourseAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\vr313\\Desktop\\New folder (12)\\CourseAPI\\CourseAPI\\appsettings.json",
+              "RelativeToolTip": "CourseAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-24T09:20:37.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20260424095205_init.cs",
+              "DocumentMoniker": "C:\\Users\\vr313\\Desktop\\New folder (12)\\CourseAPI\\CourseAPI\\Migrations\\20260424095205_init.cs",
+              "RelativeDocumentMoniker": "CourseAPI\\Migrations\\20260424095205_init.cs",
+              "ToolTip": "C:\\Users\\vr313\\Desktop\\New folder (12)\\CourseAPI\\CourseAPI\\Migrations\\20260424095205_init.cs",
+              "RelativeToolTip": "CourseAPI\\Migrations\\20260424095205_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T09:52:05.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CourseAPIDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\vr313\\Desktop\\New folder (12)\\CourseAPI\\CourseAPI\\Data\\CourseAPIDbContext.cs",
+              "RelativeDocumentMoniker": "CourseAPI\\Data\\CourseAPIDbContext.cs",
+              "ToolTip": "C:\\Users\\vr313\\Desktop\\New folder (12)\\CourseAPI\\CourseAPI\\Data\\CourseAPIDbContext.cs",
+              "RelativeToolTip": "CourseAPI\\Data\\CourseAPIDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T07:01:44.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\vr313\\Desktop\\New folder (12)\\CourseAPI\\CourseAPI\\Mappings\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "CourseAPI\\Mappings\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\vr313\\Desktop\\New folder (12)\\CourseAPI\\CourseAPI\\Mappings\\MappingProfile.cs",
+              "RelativeToolTip": "CourseAPI\\Mappings\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T09:02:21.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ICourseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\vr313\\Desktop\\New folder (12)\\CourseAPI\\CourseAPI\\Repositories\\ICourseRepository.cs",
+              "RelativeDocumentMoniker": "CourseAPI\\Repositories\\ICourseRepository.cs",
+              "ToolTip": "C:\\Users\\vr313\\Desktop\\New folder (12)\\CourseAPI\\CourseAPI\\Repositories\\ICourseRepository.cs",
+              "RelativeToolTip": "CourseAPI\\Repositories\\ICourseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T08:22:28.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\vr313\\Desktop\\New folder (12)\\CourseAPI\\CourseAPI\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "CourseAPI\\Models\\Course.cs",
+              "ToolTip": "C:\\Users\\vr313\\Desktop\\New folder (12)\\CourseAPI\\CourseAPI\\Models\\Course.cs",
+              "RelativeToolTip": "CourseAPI\\Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T07:05:56.19Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

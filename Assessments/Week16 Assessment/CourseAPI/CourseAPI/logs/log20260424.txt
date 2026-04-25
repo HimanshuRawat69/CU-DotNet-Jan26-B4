@@ -1,0 +1,190 @@
+2026-04-24 14:59:39.505 +05:30 [INF] Now listening on: https://localhost:7036
+2026-04-24 14:59:39.545 +05:30 [INF] Now listening on: http://localhost:5185
+2026-04-24 14:59:39.637 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2026-04-24 14:59:39.639 +05:30 [INF] Hosting environment: Development
+2026-04-24 14:59:39.640 +05:30 [INF] Content root path: C:\Users\vr313\Desktop\New folder (12)\CourseAPI\CourseAPI
+2026-04-24 14:59:40.366 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7036/swagger - null null
+2026-04-24 14:59:40.562 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7036/swagger - 301 null null 210.9726ms
+2026-04-24 14:59:40.569 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7036/swagger/index.html - null null
+2026-04-24 14:59:40.678 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7036/swagger/index.html - 200 null text/html;charset=utf-8 109.0152ms
+2026-04-24 14:59:40.682 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7036/swagger/swagger-ui.css - null null
+2026-04-24 14:59:40.682 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7036/swagger/swagger-ui-standalone-preset.js - null null
+2026-04-24 14:59:40.682 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7036/swagger/swagger-ui-bundle.js - null null
+2026-04-24 14:59:40.683 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7036/_framework/aspnetcore-browser-refresh.js - null null
+2026-04-24 14:59:40.686 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7036/_vs/browserLink - null null
+2026-04-24 14:59:40.743 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7036/_framework/aspnetcore-browser-refresh.js - 200 14923 application/javascript; charset=utf-8 60.5337ms
+2026-04-24 14:59:40.750 +05:30 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2026-04-24 14:59:40.750 +05:30 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2026-04-24 14:59:40.770 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7036/swagger/swagger-ui.css - 200 152034 text/css 87.5655ms
+2026-04-24 14:59:40.772 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7036/swagger/swagger-ui-standalone-preset.js - 200 230280 text/javascript 90.0754ms
+2026-04-24 14:59:40.802 +05:30 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2026-04-24 14:59:40.805 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7036/swagger/swagger-ui-bundle.js - 200 1456926 text/javascript 122.5367ms
+2026-04-24 14:59:40.825 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7036/_vs/browserLink - 200 null text/javascript; charset=UTF-8 138.5046ms
+2026-04-24 14:59:40.982 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7036/swagger/v1/swagger.json - null null
+2026-04-24 14:59:40.999 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7036/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 16.7943ms
+2026-04-24 14:59:41.017 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7036/swagger/favicon-32x32.png - null null
+2026-04-24 14:59:41.049 +05:30 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2026-04-24 14:59:41.054 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7036/swagger/favicon-32x32.png - 200 628 image/png 36.3764ms
+2026-04-24 14:59:46.265 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7036/api/Course - null null
+2026-04-24 14:59:46.273 +05:30 [INF] Executing endpoint 'CourseAPI.Controllers.CourseController.GetAll (CourseAPI)'
+2026-04-24 14:59:46.295 +05:30 [INF] Route matched with {action = "GetAll", controller = "Course"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAll() on controller CourseAPI.Controllers.CourseController (CourseAPI).
+2026-04-24 14:59:46.538 +05:30 [WRN] You do not have a valid license key for the Lucky Penny software AutoMapper. This is allowed for development and testing scenarios. If you are running in production you are required to have a licensed version. Please visit https://luckypennysoftware.com to obtain a valid license.
+2026-04-24 14:59:47.261 +05:30 [ERR] An error occurred using the connection to database '' on server ''.
+2026-04-24 14:59:47.301 +05:30 [ERR] An exception occurred while iterating over the results of a query for context type 'CourseAPI.Data.CourseAPIDbContext'.
+System.InvalidOperationException: The ConnectionString property has not been initialized.
+   at Microsoft.Data.SqlClient.SqlConnection.PermissionDemand()
+   at Microsoft.Data.SqlClient.SqlConnectionFactory.PermissionDemand(DbConnection outerConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry, SqlConnectionOverrides overrides)
+   at Microsoft.Data.SqlClient.SqlConnection.InternalOpenAsync(CancellationToken cancellationToken)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenAsync(CancellationToken cancellationToken, Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+System.InvalidOperationException: The ConnectionString property has not been initialized.
+   at Microsoft.Data.SqlClient.SqlConnection.PermissionDemand()
+   at Microsoft.Data.SqlClient.SqlConnectionFactory.PermissionDemand(DbConnection outerConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry, SqlConnectionOverrides overrides)
+   at Microsoft.Data.SqlClient.SqlConnection.InternalOpenAsync(CancellationToken cancellationToken)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenAsync(CancellationToken cancellationToken, Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+2026-04-24 14:59:47.417 +05:30 [INF] Executed action CourseAPI.Controllers.CourseController.GetAll (CourseAPI) in 1115.3703ms
+2026-04-24 14:59:47.419 +05:30 [INF] Executed endpoint 'CourseAPI.Controllers.CourseController.GetAll (CourseAPI)'
+2026-04-24 14:59:47.451 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7036/api/Course - 500 null application/json; charset=utf-8 1186.2063ms
+2026-04-24 15:25:43.127 +05:30 [INF] Executed DbCommand (187ms) [Parameters=[], CommandType='"Text"', CommandTimeout='60']
+CREATE DATABASE [CourseApiDb];
+2026-04-24 15:25:43.270 +05:30 [INF] Executed DbCommand (109ms) [Parameters=[], CommandType='"Text"', CommandTimeout='60']
+IF SERVERPROPERTY('EngineEdition') <> 5
+BEGIN
+    ALTER DATABASE [CourseApiDb] SET READ_COMMITTED_SNAPSHOT ON;
+END;
+2026-04-24 15:25:43.290 +05:30 [INF] Executed DbCommand (7ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2026-04-24 15:25:43.353 +05:30 [INF] Executed DbCommand (15ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [__EFMigrationsHistory] (
+    [MigrationId] nvarchar(150) NOT NULL,
+    [ProductVersion] nvarchar(32) NOT NULL,
+    CONSTRAINT [PK___EFMigrationsHistory] PRIMARY KEY ([MigrationId])
+);
+2026-04-24 15:25:43.355 +05:30 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2026-04-24 15:25:43.383 +05:30 [INF] Executed DbCommand (24ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+2026-04-24 15:25:43.456 +05:30 [INF] Executed DbCommand (70ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId];
+2026-04-24 15:25:43.474 +05:30 [INF] Applying migration '20260424095205_init'.
+2026-04-24 15:25:43.508 +05:30 [INF] Executed DbCommand (4ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [Courses] (
+    [CourseId] int NOT NULL IDENTITY,
+    [Title] nvarchar(50) NOT NULL,
+    [Price] float(18) NOT NULL,
+    [Summary] nvarchar(500) NOT NULL,
+    [DiscountedPrice] float(18) NOT NULL,
+    [CreatedDate] datetime2 NOT NULL,
+    CONSTRAINT [PK_Courses] PRIMARY KEY ([CourseId])
+);
+2026-04-24 15:25:43.516 +05:30 [INF] Executed DbCommand (7ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+INSERT INTO [__EFMigrationsHistory] ([MigrationId], [ProductVersion])
+VALUES (N'20260424095205_init', N'8.0.0');
+2026-04-24 15:25:58.091 +05:30 [INF] Now listening on: https://localhost:7036
+2026-04-24 15:25:58.164 +05:30 [INF] Now listening on: http://localhost:5185
+2026-04-24 15:25:58.323 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2026-04-24 15:25:58.325 +05:30 [INF] Hosting environment: Development
+2026-04-24 15:25:58.327 +05:30 [INF] Content root path: C:\Users\vr313\Desktop\New folder (12)\CourseAPI\CourseAPI
+2026-04-24 15:25:59.220 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7036/swagger/index.html - null null
+2026-04-24 15:25:59.561 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7036/_vs/browserLink - null null
+2026-04-24 15:25:59.561 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7036/_framework/aspnetcore-browser-refresh.js - null null
+2026-04-24 15:25:59.578 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7036/swagger/index.html - 200 null text/html;charset=utf-8 363.6228ms
+2026-04-24 15:25:59.601 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7036/_framework/aspnetcore-browser-refresh.js - 200 14923 application/javascript; charset=utf-8 40.361ms
+2026-04-24 15:25:59.676 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7036/_vs/browserLink - 200 null text/javascript; charset=UTF-8 115.2969ms
+2026-04-24 15:25:59.928 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7036/swagger/v1/swagger.json - null null
+2026-04-24 15:25:59.954 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7036/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 27.1743ms
+2026-04-24 15:27:20.733 +05:30 [INF] Request starting HTTP/2 POST https://localhost:7036/api/Course - application/json 80
+2026-04-24 15:27:20.755 +05:30 [INF] Executing endpoint 'CourseAPI.Controllers.CourseController.Create (CourseAPI)'
+2026-04-24 15:27:20.799 +05:30 [INF] Route matched with {action = "Create", controller = "Course"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Create(CourseAPI.DTOs.CreateCourseDto) on controller CourseAPI.Controllers.CourseController (CourseAPI).
+2026-04-24 15:27:21.047 +05:30 [WRN] You do not have a valid license key for the Lucky Penny software AutoMapper. This is allowed for development and testing scenarios. If you are running in production you are required to have a licensed version. Please visit https://luckypennysoftware.com to obtain a valid license.
+2026-04-24 15:27:21.267 +05:30 [INF] Executed action CourseAPI.Controllers.CourseController.Create (CourseAPI) in 459.7011ms
+2026-04-24 15:27:21.271 +05:30 [INF] Executed endpoint 'CourseAPI.Controllers.CourseController.Create (CourseAPI)'
+2026-04-24 15:27:21.302 +05:30 [INF] Request finished HTTP/2 POST https://localhost:7036/api/Course - 500 null application/json; charset=utf-8 569.0891ms
+2026-04-24 15:28:32.892 +05:30 [INF] Request starting HTTP/2 POST https://localhost:7036/api/Course - application/json 80
+2026-04-24 15:28:32.908 +05:30 [INF] Executing endpoint 'CourseAPI.Controllers.CourseController.Create (CourseAPI)'
+2026-04-24 15:28:32.912 +05:30 [INF] Route matched with {action = "Create", controller = "Course"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Create(CourseAPI.DTOs.CreateCourseDto) on controller CourseAPI.Controllers.CourseController (CourseAPI).
+2026-04-24 15:28:32.988 +05:30 [INF] Executed action CourseAPI.Controllers.CourseController.Create (CourseAPI) in 72.1776ms
+2026-04-24 15:28:32.993 +05:30 [INF] Executed endpoint 'CourseAPI.Controllers.CourseController.Create (CourseAPI)'
+2026-04-24 15:28:33.018 +05:30 [INF] Request finished HTTP/2 POST https://localhost:7036/api/Course - 500 null application/json; charset=utf-8 126.5504ms
+2026-04-24 15:28:40.990 +05:30 [INF] Request starting HTTP/2 POST https://localhost:7036/api/Course - application/json 78
+2026-04-24 15:28:40.997 +05:30 [INF] Executing endpoint 'CourseAPI.Controllers.CourseController.Create (CourseAPI)'
+2026-04-24 15:28:40.999 +05:30 [INF] Route matched with {action = "Create", controller = "Course"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Create(CourseAPI.DTOs.CreateCourseDto) on controller CourseAPI.Controllers.CourseController (CourseAPI).
+2026-04-24 15:28:42.177 +05:30 [INF] Executed DbCommand (82ms) [Parameters=[@p0='?' (DbType = DateTime2), @p1='?' (Size = 18) (DbType = Double), @p2='?' (Size = 18) (DbType = Double), @p3='?' (Size = 500), @p4='?' (Size = 50)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [Courses] ([CreatedDate], [DiscountedPrice], [Price], [Summary], [Title])
+OUTPUT INSERTED.[CourseId]
+VALUES (@p0, @p1, @p2, @p3, @p4);
+2026-04-24 15:28:42.345 +05:30 [INF] Executed action CourseAPI.Controllers.CourseController.Create (CourseAPI) in 1342.5253ms
+2026-04-24 15:28:42.349 +05:30 [INF] Executed endpoint 'CourseAPI.Controllers.CourseController.Create (CourseAPI)'
+2026-04-24 15:28:42.435 +05:30 [INF] Request finished HTTP/2 POST https://localhost:7036/api/Course - 500 null application/json; charset=utf-8 1445.082ms
+2026-04-24 15:30:48.296 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7036/swagger/index.html - null null
+2026-04-24 15:30:48.315 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7036/swagger/index.html - 200 null text/html;charset=utf-8 19.9299ms
+2026-04-24 15:30:48.372 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7036/_vs/browserLink - null null
+2026-04-24 15:30:48.374 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7036/_framework/aspnetcore-browser-refresh.js - null null
+2026-04-24 15:30:48.392 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7036/_framework/aspnetcore-browser-refresh.js - 200 14923 application/javascript; charset=utf-8 20.4579ms
+2026-04-24 15:30:48.401 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7036/_vs/browserLink - 200 null text/javascript; charset=UTF-8 29.8232ms
+2026-04-24 15:30:48.554 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7036/swagger/v1/swagger.json - null null
+2026-04-24 15:30:48.571 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7036/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 17.985ms
+2026-04-24 15:31:01.830 +05:30 [INF] Request starting HTTP/2 POST https://localhost:7036/api/Course - application/json 78
+2026-04-24 15:31:01.836 +05:30 [INF] Executing endpoint 'CourseAPI.Controllers.CourseController.Create (CourseAPI)'
+2026-04-24 15:31:01.844 +05:30 [INF] Route matched with {action = "Create", controller = "Course"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Create(CourseAPI.DTOs.CreateCourseDto) on controller CourseAPI.Controllers.CourseController (CourseAPI).
+2026-04-24 15:31:01.923 +05:30 [INF] Executed DbCommand (11ms) [Parameters=[@p0='?' (DbType = DateTime2), @p1='?' (Size = 18) (DbType = Double), @p2='?' (Size = 18) (DbType = Double), @p3='?' (Size = 500), @p4='?' (Size = 50)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [Courses] ([CreatedDate], [DiscountedPrice], [Price], [Summary], [Title])
+OUTPUT INSERTED.[CourseId]
+VALUES (@p0, @p1, @p2, @p3, @p4);
+2026-04-24 15:31:01.939 +05:30 [INF] Executing OkObjectResult, writing value of type 'CourseAPI.Common.ApiResponse`1[[CourseAPI.DTOs.CourseResponseDto, CourseAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-04-24 15:31:01.950 +05:30 [INF] Executed action CourseAPI.Controllers.CourseController.Create (CourseAPI) in 102.7559ms
+2026-04-24 15:31:01.953 +05:30 [INF] Executed endpoint 'CourseAPI.Controllers.CourseController.Create (CourseAPI)'
+2026-04-24 15:31:01.955 +05:30 [INF] Request finished HTTP/2 POST https://localhost:7036/api/Course - 200 null application/json; charset=utf-8 126.0392ms
+2026-04-24 15:31:32.961 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7036/api/Course - null null
+2026-04-24 15:31:32.967 +05:30 [INF] Executing endpoint 'CourseAPI.Controllers.CourseController.GetAll (CourseAPI)'
+2026-04-24 15:31:32.974 +05:30 [INF] Route matched with {action = "GetAll", controller = "Course"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAll() on controller CourseAPI.Controllers.CourseController (CourseAPI).
+2026-04-24 15:31:33.200 +05:30 [INF] Executed DbCommand (5ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [c].[CourseId], [c].[CreatedDate], [c].[DiscountedPrice], [c].[Price], [c].[Summary], [c].[Title]
+FROM [Courses] AS [c]
+2026-04-24 15:31:33.233 +05:30 [INF] Executing OkObjectResult, writing value of type 'CourseAPI.Common.ApiResponse`1[[System.Collections.Generic.List`1[[CourseAPI.DTOs.CourseResponseDto, CourseAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2026-04-24 15:31:33.239 +05:30 [INF] Executed action CourseAPI.Controllers.CourseController.GetAll (CourseAPI) in 261.8445ms
+2026-04-24 15:31:33.244 +05:30 [INF] Executed endpoint 'CourseAPI.Controllers.CourseController.GetAll (CourseAPI)'
+2026-04-24 15:31:33.245 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7036/api/Course - 200 null application/json; charset=utf-8 285.0292ms
+2026-04-24 15:32:12.498 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7036/api/Course/1 - null null
+2026-04-24 15:32:12.503 +05:30 [INF] Executing endpoint 'CourseAPI.Controllers.CourseController.GetById (CourseAPI)'
+2026-04-24 15:32:12.512 +05:30 [INF] Route matched with {action = "GetById", controller = "Course"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetById(Int32) on controller CourseAPI.Controllers.CourseController (CourseAPI).
+2026-04-24 15:32:12.643 +05:30 [INF] Executed DbCommand (7ms) [Parameters=[@__p_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [c].[CourseId], [c].[CreatedDate], [c].[DiscountedPrice], [c].[Price], [c].[Summary], [c].[Title]
+FROM [Courses] AS [c]
+WHERE [c].[CourseId] = @__p_0
+2026-04-24 15:32:12.648 +05:30 [INF] Executing OkObjectResult, writing value of type 'CourseAPI.Common.ApiResponse`1[[CourseAPI.DTOs.CourseResponseDto, CourseAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-04-24 15:32:12.651 +05:30 [INF] Executed action CourseAPI.Controllers.CourseController.GetById (CourseAPI) in 134.8433ms
+2026-04-24 15:32:12.653 +05:30 [INF] Executed endpoint 'CourseAPI.Controllers.CourseController.GetById (CourseAPI)'
+2026-04-24 15:32:12.654 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7036/api/Course/1 - 200 null application/json; charset=utf-8 157.3029ms
+2026-04-24 15:33:07.379 +05:30 [INF] Request starting HTTP/2 POST https://localhost:7036/api/Course - application/json 53
+2026-04-24 15:33:07.393 +05:30 [INF] Executing endpoint 'CourseAPI.Controllers.CourseController.Create (CourseAPI)'
+2026-04-24 15:33:07.395 +05:30 [INF] Route matched with {action = "Create", controller = "Course"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Create(CourseAPI.DTOs.CreateCourseDto) on controller CourseAPI.Controllers.CourseController (CourseAPI).
+2026-04-24 15:33:07.420 +05:30 [INF] Executing BadRequestObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ValidationProblemDetails'.
+2026-04-24 15:33:07.443 +05:30 [INF] Executed action CourseAPI.Controllers.CourseController.Create (CourseAPI) in 45.2047ms
+2026-04-24 15:33:07.455 +05:30 [INF] Executed endpoint 'CourseAPI.Controllers.CourseController.Create (CourseAPI)'
+2026-04-24 15:33:07.456 +05:30 [INF] Request finished HTTP/2 POST https://localhost:7036/api/Course - 400 null application/problem+json; charset=utf-8 79.0234ms
